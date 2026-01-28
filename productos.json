@@ -1,0 +1,3291 @@
+[
+  {
+    "orden": 1,
+    "codigo": "NF7764X24GYS",
+    "nombre": "Vaso Multiuso 350 ml de Vidrio Dubai Nadir",
+    "nombreCorto": "Vaso Dubai 350 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "pack",
+    "precioBase": 490,
+    "packs": [2,4,6,12,24],
+    "imagenes": [
+      "https://res.cloudinary.com/dpxwplees/image/upload/v1769266383/dubai_350_460_rgzbct.jpg",
+      "https://res.cloudinary.com/dpxwplees/image/upload/v1769266383/dubai_350_medidas_nwhorq.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 6 cm",
+      "Altura: 11 cm",
+      "Capacidad: 350 ml",
+      "Marca: Nadir"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 2,
+    "codigo": "NF7664X24GYS",
+    "nombre": "Vaso para Refresco de vidrio 460 ml Dubai Nadir Figueiredo",
+    "nombreCorto": "Vaso Dubai 460 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "pack",
+    "precioBase": 580,
+    "packs": [2,4,6,12,24],
+    "imagenes": [
+      "https://res.cloudinary.com/dpxwplees/image/upload/v1769266383/dubai_350_460_rgzbct.jpg",
+      "https://res.cloudinary.com/dpxwplees/image/upload/v1769266383/dubai_460_medidas_anjzdb.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 460 ml",
+      "Diámetro de boca: 6,5 cm",
+      "Altura: 12 cm",
+      "Material: Vidrio",
+      "Marca: Nadir",
+      "Peso: 210 g",
+      "Espesor fino y ergonómico"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 3,
+    "codigo": "MC7656GYS",
+    "nombre": "Vaso Ondas 450 ml Borosilicato Prisma",
+    "nombreCorto": "Vaso ondas 450 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 259,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66254.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos31_66254.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 450 ml",
+      "Diámetro de boca: 9 cm",
+      "Altura: 9 cm",
+      "Original"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 4,
+    "codigo": "NF2304X24GYS",
+    "nombre": "Vaso Shot 60 ml Vidrio Ole Caña Nadir Figueiredo",
+    "nombreCorto": "Vaso Shot 60 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 36,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_52699.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58997.png"
+    ],
+    "detalles": [
+      "Capacidad: 60 ml",
+      "Diámetro de boca: 5.2 cm",
+      "Diámetro de base: 3.5 cm",
+      "Altura: 6.8 cm",
+      "Peso: 90 g",
+      "Ideal para licores o postres individuales"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 5,
+    "codigo": "NF7700X24GYS",
+    "nombre": "Vaso de refresco 300 ml Vidrio Cylinder Nadir",
+    "nombreCorto": "Vaso refresco 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 49,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43979.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63268.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 300 ml",
+      "Diámetro de boca: 6.5 cm",
+      "Diámetro de base: 5.9 cm",
+      "Espesor: 0.4 mm",
+      "Altura: 13 cm",
+      "Ideal para uso gastronómico"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 6,
+    "codigo": "NF2752x24GYS",
+    "nombre": "Vaso Long Drink 320 ml Vidrio Vegas Nadir Figueiredo",
+    "nombreCorto": "Vaso Long Drink 320 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 55,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45023.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59174.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 320 ml",
+      "Diámetro de boca: 7.2 cm",
+      "Diámetro de base: 5 cm",
+      "Altura: 13,5 cm",
+      "Peso: 265 g",
+      "Ideal para batidos"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 7,
+    "codigo": "M198017GYS",
+    "nombre": "Vaso vidrio de agua fondo grueso 300 ml",
+    "nombreCorto": "Vaso fondo grueso 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 65,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45451.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_61183.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 300 ml",
+      "Diámetro boca: 5.8 cm",
+      "Diámetro base: 5.5 cm",
+      "Altura: 14 cm",
+      "Fondo grueso",
+      "Ideal para bares"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 8,
+    "codigo": "NF7109x24GYS",
+    "nombre": "Vaso cerveza 200 ml vidrio Munich Nadir Figueredo",
+    "nombreCorto": "Vaso cerveza 200 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 69,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56358.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59019.png"
+    ],
+    "detalles": [
+      "Capacidad: 200 ml",
+      "Diámetro de boca: 5.5 cm",
+      "Altura: 14.3 cm",
+      "Material: Vidrio",
+      "Marca: Nadir Figueredo"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 9,
+    "codigo": "NF2611X12GYS",
+    "nombre": "Vaso Refresco 340 ml Vidrio Bristol Nadir Figueredo",
+    "nombreCorto": "Vaso Bristol 340 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 69,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43805.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44194.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 340 ml",
+      "Altura: 14.3 cm",
+      "Peso: 260 g",
+      "Ideal para todo tipo de bebidas"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 10,
+    "codigo": "MM0165GYS",
+    "nombre": "Vaso Shot de Postre 99 ml Vidrio Crisa",
+    "nombreCorto": "Vaso Shot Postre 99 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 75,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_46361.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59039.png"
+    ],
+    "detalles": [
+      "Capacidad: 99 ml",
+      "Altura: 7 cm",
+      "Ideal para postres individuales"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 11,
+    "codigo": "NF2552X24GYS",
+    "nombre": "Vaso de Whisky Vidrio 290 ml Vegas Nadir",
+    "nombreCorto": "Vaso Whisky 290 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 59,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_51078.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59173.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 290 ml",
+      "Diámetro de boca: 8 cm",
+      "Diámetro de base: 6.3 cm",
+      "Altura: 8.6 cm",
+      "Peso: 210 g",
+      "Ideal para whisky"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 12,
+    "codigo": "NF2711X12GYS",
+    "nombre": "Vaso de agua 410 ml Vidrio Bristol Nadir",
+    "nombreCorto": "Vaso de agua 410 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 85,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43803.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59015.png"
+    ],
+    "detalles": [
+      "Capacidad: 410 ml",
+      "Diámetro de boca: 8.5 cm",
+      "Diámetro de base: 6.2 cm",
+      "Altura: 12.2 cm",
+      "Peso: 280 g",
+      "Ideal para todo tipo de bebidas"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 13,
+    "codigo": "NF7017X12GYS",
+    "nombre": "Vaso de Vidrio para Agua 240 ml Amassadinho Nadir",
+    "nombreCorto": "Vaso Agua 240 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 79,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_57476.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59029.png"
+    ],
+    "detalles": [
+      "Capacidad: 240 ml",
+      "Diámetro: 6.5 cm",
+      "Altura: 11 cm",
+      "Material: Vidrio",
+      "Marca: Nadir"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 14,
+    "codigo": "NF7741X24GYS",
+    "nombre": "Vaso Cerveza 300 ml Vidrio Joinville Nadir",
+    "nombreCorto": "Vaso Cerveza 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 85,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_51947.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59024.png"
+    ],
+    "detalles": [
+      "Capacidad: 300 ml",
+      "Altura: 16.5 cm",
+      "Peso: 250 g",
+      "Línea Joinville",
+      "Marca: Nadir",
+      "Alta resistencia"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 15,
+    "codigo": "NF7529X24GYS",
+    "nombre": "Vaso Whisky 330 ml Vidrio Oca Nadir Figueiredo",
+    "nombreCorto": "Vaso Whisky 330 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 79,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48982.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59032.png"
+    ],
+    "detalles": [
+      "Capacidad: 330 ml",
+      "Diámetro de boca: 7.7 cm",
+      "Diámetro de base: 6 cm",
+      "Altura: 9 cm",
+      "Peso: 230 g"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 16,
+    "codigo": "NF7709X24GYS",
+    "nombre": "Vaso Cerveza de vidrio 300 ml Munich Nadir",
+    "nombreCorto": "Vaso Cerveza Munich 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 79,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44450.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59022.png"
+    ],
+    "detalles": [
+      "Capacidad: 300 ml",
+      "Altura: 16.8 cm",
+      "Diámetro de boca: 6 cm",
+      "Peso: 275 g",
+      "Ideal para todo tipo de cerveza"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 17,
+    "codigo": "P0789GYS",
+    "nombre": "Vaso vidrio 308 ml Capella Rock Cristar",
+    "nombreCorto": "Vaso Capella Rock 308 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 85,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62233.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63497.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 308 ml",
+      "Diámetro de boca: 7 cm",
+      "Diámetro de base: 6.5 cm",
+      "Altura: 9 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 18,
+    "codigo": "NF7629X24GYS",
+    "nombre": "Vaso de refresco 400 ml Vidrio Oca Nadir",
+    "nombreCorto": "Vaso Refresco 400 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 85,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_52709.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59031.png"
+    ],
+    "detalles": [
+      "Capacidad: 400 ml",
+      "Altura: 14 cm",
+      "Peso: 255 g",
+      "Ideal para todo tipo de bebidas"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 19,
+    "codigo": "NF2O055X12GYS",
+    "nombre": "Vaso de Vidrio 395 ml Valencia Nadir",
+    "nombreCorto": "Vaso Valencia 395 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 85,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_64854.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos31_64854.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 395 ml",
+      "Altura: 14 cm",
+      "Diámetro de boca: 7.5 cm",
+      "Diámetro de base: 5.7 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 20,
+    "codigo": "NF7517X12GYS",
+    "nombre": "Vaso de Vidrio para Whisky 250 ml Amassadinho Nadir",
+    "nombreCorto": "Vaso Whisky 250 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 89,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_57478.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_57479.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 250 ml",
+      "Diámetro: 8 cm",
+      "Altura: 9 cm",
+      "Peso: 293 g",
+      "Material: Vidrio"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 21,
+    "codigo": "NF7715X12GYS",
+    "nombre": "Vaso Cerveza 300 ml Vidrio Tulipa Nadir Figueiredo",
+    "nombreCorto": "Vaso Cerveza Tulipa 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44989.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59186.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 300 ml",
+      "Diámetro de boca: 6.5 cm",
+      "Diámetro de base: 6.5 cm",
+      "Altura: 19 cm",
+      "Peso: 250 g",
+      "Ideal para cualquier tipo de cerveza"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 22,
+    "codigo": "NF7064X12GYS",
+    "nombre": "Vaso Refresco 530 ml Vidrio Dubai Nadir Figueiredo",
+    "nombreCorto": "Vaso Refresco 530 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_50456.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59045.png"
+    ],
+    "detalles": [
+      "Capacidad: 530 ml",
+      "Diámetro de boca: 6 cm",
+      "Altura: 15 cm",
+      "Material: Vidrio",
+      "Excelente calidad"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 23,
+    "codigo": "P07941GYS",
+    "nombre": "Vaso Vidrio 458 ml Bolonia Alto Cristar",
+    "nombreCorto": "Vaso Bolonia Alto 458 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 105,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62237.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62238.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 458 ml",
+      "Diámetro de boca: 7.2 cm",
+      "Diámetro de base: 6.5 cm",
+      "Altura: 11.5 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 24,
+    "codigo": "NF7I770X24GYS",
+    "nombre": "Vaso de Vidrio 480 ml Ravena Nadir",
+    "nombreCorto": "Vaso Ravena 480 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65512.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65547.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 480 ml",
+      "Diámetro de boca: 6.5 cm",
+      "Diámetro de base: 5.5 cm",
+      "Altura: 12 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 25,
+    "codigo": "P09191GYS",
+    "nombre": "Vaso Lata 351 ml Cristar",
+    "nombreCorto": "Vaso Lata 351 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66300.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos31_66300.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 351 ml",
+      "Diámetro de boca: 6 cm",
+      "Diámetro de base: 6 cm",
+      "Altura: 12 cm",
+      "Diseño tipo lata"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 26,
+    "codigo": "P09271GYS",
+    "nombre": "Vaso Barcelona Rock 365 ml Cristar",
+    "nombreCorto": "Vaso Barcelona Rock 365 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 120,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66255.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 365 ml",
+      "Diámetro de boca: 7.8 cm",
+      "Altura: 9 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 27,
+    "codigo": "MP410006GYS",
+    "nombre": "Vaso Helado 245 ml Vidrio Minicornet Pasabahce",
+    "nombreCorto": "Vaso Helado 245 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 120,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48955.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59181.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 245 ml",
+      "Diámetro de boca: 8.5 cm",
+      "Diámetro de base: 5 cm",
+      "Altura: 9 cm",
+      "Excelente calidad"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 28,
+    "codigo": "P09281GYS",
+    "nombre": "Vaso Barcelona Alto 452 ml Cristar",
+    "nombreCorto": "Vaso Barcelona Alto 452 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66299.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos31_66299.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 452 ml",
+      "Diámetro de boca: 7 cm",
+      "Diámetro de base: 5.3 cm",
+      "Altura: 15.5 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 29,
+    "codigo": "SANSR787-2CGYS",
+    "nombre": "Vaso de Plástico 270 ml Set x4 Sanremo",
+    "nombreCorto": "Vaso Plástico 270 ml x4",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "pack",
+    "precioBase": 300,
+    "packs": [4],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62989.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63519.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62990.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62991.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 270 ml",
+      "Diámetro: 6.8 cm",
+      "Altura: 10 cm",
+      "Pack de 4 unidades",
+      "Colores surtidos"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 30,
+    "codigo": "GOLDJH-19001GYS",
+    "nombre": "Vaso Shot 40 ml Vidrio Set x 6",
+    "nombreCorto": "Vaso Shot 40 ml x6",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "pack",
+    "precioBase": 259,
+    "packs": [6],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_60201.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_60470.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_60202.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 40 ml",
+      "Diámetro boca: 4.5 cm",
+      "Diámetro base: 3.3 cm",
+      "Altura: 6.5 cm",
+      "Set de 6 unidades"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 31,
+    "codigo": "NF7600X2GYS",
+    "nombre": "Vaso de refresco 350 ml Vidrio Cylinder Nadir",
+    "nombreCorto": "Vaso Refresco 350 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "pack",
+    "precioBase": 310,
+    "packs": [2,4,6],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_51970.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44221.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 350 ml",
+      "Diámetro de boca: 6.6 cm",
+      "Diámetro de base: 6 cm",
+      "Altura: 14 cm",
+      "Material: Vidrio",
+      "Marca: Nadir Figueiredo"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 32,
+    "codigo": "NF7600X24OFERTAGYS",
+    "nombre": "Vaso de refresco 350 ml Vidrio Cylinder Nadir – Oferta x24",
+    "nombreCorto": "Vaso Refresco 350 ml x24",
+    "categoria": "cristaleria",
+    "subcategoria": "vasos",
+    "tipoVenta": "pack",
+    "precioBase": 275,
+    "packs": [24],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_51970.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44221.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 350 ml",
+      "Altura: 14 cm",
+      "Material: Vidrio",
+      "Marca: Nadir Figueiredo",
+      "Oferta pack x24"
+    ],
+    "tags": ["oferta"]
+  },
+  {
+    "orden": 33,
+    "codigo": "MP51068GYS",
+    "nombre": "Copa Helado Vidrio 180 ml Canada Set x2 Pasabahce",
+    "nombreCorto": "Copa Helado 180 ml x2",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "pack",
+    "precioBase": 1072,
+    "packs": [2],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62243.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62244.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 180 ml",
+      "Altura: 11 cm",
+      "Diámetro boca: 11.5 cm",
+      "Marca: Pasabahce",
+      "Línea Canadá"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 34,
+    "codigo": "NF7156X12GYS",
+    "nombre": "Copa Vino Tinto 385 ml Vidrio Barone Nadir",
+    "nombreCorto": "Copa Vino Tinto 385 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_55152.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58971.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 385 ml",
+      "Altura: 21 cm",
+      "Diámetro boca: 5.9 cm",
+      "Uso gastronómico"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 35,
+    "codigo": "NF7728X12GYS",
+    "nombre": "Copa de cerveza 330 ml Vidrio Windsor Nadir",
+    "nombreCorto": "Copa Cerveza Windsor 330 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45040.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45041.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 330 ml",
+      "Altura: 17.5 cm",
+      "Marca: Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 36,
+    "codigo": "NF7227X12GYS",
+    "nombre": "Copa helado 360 ml Vidrio Samba Nadir",
+    "nombreCorto": "Copa Helado 360 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 89,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56141.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58970.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 360 ml",
+      "Altura: 10.2 cm",
+      "Línea Samba",
+      "Marca: Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 37,
+    "codigo": "NF7856X12GYS",
+    "nombre": "Copa Champagne 190 ml Vidrio Barone Nadir Figueiredo",
+    "nombreCorto": "Copa Champagne 190 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48286.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48287.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 190 ml",
+      "Altura: 22.5 cm",
+      "Uso gastronómico"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 38,
+    "codigo": "MV486990GYS",
+    "nombre": "Copa de vidrio 190 ml Toscana Glassia",
+    "nombreCorto": "Copa Toscana 190 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 120,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66039.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 190 ml",
+      "Altura: 20.5 cm",
+      "Marca: Glassia"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 39,
+    "codigo": "MV493290GYS",
+    "nombre": "Copa Vino California 590 ml Glassia",
+    "nombreCorto": "Copa Vino California 590 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 120,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62843.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62877.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 590 ml",
+      "Altura: 22.5 cm",
+      "Diámetro: 8.2 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 40,
+    "codigo": "NF7133X12GYS",
+    "nombre": "Copa Vino Tinto 350 ml Vidrio Emperatriz Nadir Figueiredo",
+    "nombreCorto": "Copa Vino Emperatriz 350 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 120,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_53843.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59053.png"
+    ],
+    "detalles": [
+      "Capacidad: 350 ml",
+      "Altura: 19.6 cm",
+      "Uso gastronómico"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 41,
+    "codigo": "NF7928X6GYS",
+    "nombre": "Copa Cocktail 355 ml Vidrio Windsor Nadir",
+    "nombreCorto": "Copa Cocktail 355 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 130,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45044.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59097.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 355 ml",
+      "Diámetro de boca: 7.2 cm",
+      "Diámetro de base: 6.5 cm",
+      "Altura: 19 cm",
+      "Ideal para tragos"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 42,
+    "codigo": "NF7228X6GYS",
+    "nombre": "Copa Martini Cocktail 250 ml Vidrio Windsor Nadir Figueiredo",
+    "nombreCorto": "Copa Martini 250 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 130,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45050.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59094.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45051.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45052.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 250 ml",
+      "Diámetro de boca: 11.1 cm",
+      "Altura: 17.2 cm",
+      "Ideal para tragos y postres"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 43,
+    "codigo": "NF7202X24GYS",
+    "nombre": "Copa Cremera 220 ml Vidrio Paulista Nadir Figueiredo",
+    "nombreCorto": "Copa Cremera 220 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 59,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_53804.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58965.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 220 ml",
+      "Diámetro de boca: 9.1 cm",
+      "Altura: 6.9 cm",
+      "Ideal para postres"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 44,
+    "codigo": "NF7002X24GYS",
+    "nombre": "Copa de agua 250 ml Vidrio Paulista Nadir Figueiredo",
+    "nombreCorto": "Copa de agua 250 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 79,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44627.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44628.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 250 ml",
+      "Altura: 10.9 cm",
+      "Material: Vidrio"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 45,
+    "codigo": "NF7B770X12GYS",
+    "nombre": "Copa Ravena Agua 385 ml Nadir",
+    "nombreCorto": "Copa Ravena Agua 385 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 89,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65502.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65548.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 385 ml",
+      "Altura: 21 cm",
+      "Marca: Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 46,
+    "codigo": "NF7D770X12GYS",
+    "nombre": "Copa Ravena Flauta 190 ml Nadir",
+    "nombreCorto": "Copa Ravena Flauta 190 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 79,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65505.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65549.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 190 ml",
+      "Altura: 24.4 cm",
+      "Ideal para champagne"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 47,
+    "codigo": "NF7148X12GYS",
+    "nombre": "Copa de vidrio para Licor 65 ml Donna Nadir Figueredo",
+    "nombreCorto": "Copa Licor 65 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 89,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56855.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 65 ml",
+      "Altura: 13.5 cm",
+      "Línea Donna",
+      "Marca: Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 48,
+    "codigo": "NF7428X12GYS",
+    "nombre": "Copa de vino blanco 190 ml Vidrio Windsor Nadir Figueiredo",
+    "nombreCorto": "Copa Vino Blanco 190 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 69,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45053.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59028.png"
+    ],
+    "detalles": [
+      "Capacidad: 190 ml",
+      "Altura: 15.3 cm",
+      "Ideal para fiestas"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 49,
+    "codigo": "NF7028X12GYS",
+    "nombre": "Copa de agua Vidrio 300 ml Windsor Nadir",
+    "nombreCorto": "Copa de agua 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 69,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45038.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45039.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 300 ml",
+      "Altura: 17.5 cm",
+      "Marca: Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 50,
+    "codigo": "NF7204X12GYS",
+    "nombre": "Copa de helado 400 ml Vidrio Paulista Nadir",
+    "nombreCorto": "Copa Helado 400 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 69,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54845.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59049.png"
+    ],
+    "detalles": [
+      "Capacidad: 400 ml",
+      "Altura: 10.2 cm",
+      "Ideal para helados y postres"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 51,
+    "codigo": "NF7828X12GYS",
+    "nombre": "Copa champagne 210 ml vidrio Windsor Nadir Figueiredo",
+    "nombreCorto": "Copa Champagne 210 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 89,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45042.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45043.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 210 ml",
+      "Altura: 19.5 cm",
+      "Marca: Nadir Figueiredo"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 52,
+    "codigo": "NF7474X6GYS",
+    "nombre": "Copa Fiore Martini 250 ml Nadir",
+    "nombreCorto": "Copa Fiore Martini 250 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 89,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65539.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65500.jpg"
+    ],
+    "detalles": [
+        "Capacidad: 250 ml",
+        "Dimensiones:",
+        "Diámetro de boca: 11 cm",
+        "Diámetro de base: 7 cm",
+        "Altura: 17.1 cm"
+
+    ],
+    "tags": []
+  },
+  {
+    "orden": 53,
+    "codigo": "NF7933X6GYS",
+    "nombre": "Copa de vidrio Degustación 600 ml Emperatriz Nadir Figueiredo",
+    "nombreCorto": "Copa Degustación 600 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 159,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44007.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59140.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 600 ml",
+      "Altura: 21.7 cm",
+      "Uso gastronómico"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 54,
+    "codigo": "NF7073X6GYS",
+    "nombre": "Copa agua 500 ml vidrio Prestige Nadir",
+    "nombreCorto": "Copa Agua Prestige 500 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 140,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56353.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59138.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 500 ml",
+      "Altura: 24 cm",
+      "Línea Prestige"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 55,
+    "codigo": "NF7628X6GYS",
+    "nombre": "Copa para Margarita Cocktail 335 ml Vidrio Windsor Nadir Figueiredo",
+    "nombreCorto": "Copa Margarita 335 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 140,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45047.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_45049.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 335 ml",
+      "Altura: 16.8 cm",
+      "Ideal para tragos"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 56,
+    "codigo": "NF7873X12GYS",
+    "nombre": "Copa vino 350 ml vidrio Prestige Nadir",
+    "nombreCorto": "Copa Vino Prestige 350 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 149,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56357.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59139.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 350 ml",
+      "Altura: 23.5 cm",
+      "Línea Prestige"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 57,
+    "codigo": "NF7973X6GYS",
+    "nombre": "Copa degustación 600 ml vidrio Prestige Nadir",
+    "nombreCorto": "Copa Degustación Prestige 600 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 169,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56355.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59141.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 600 ml",
+      "Altura: 23.5 cm",
+      "Línea Prestige"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 58,
+    "codigo": "NF7131X12GYS",
+    "nombre": "Copa de vino 390 ml Vidrio Brunello Nadir Figueiredo",
+    "nombreCorto": "Copa Vino Brunello 390 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 169,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_49009.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59145.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 390 ml",
+      "Altura: 21.5 cm",
+      "Diseño elegante"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 59,
+    "codigo": "NF7731X12GYS",
+    "nombre": "Copa Cerveza 400 ml Brunello Nadir Figueiredo",
+    "nombreCorto": "Copa Cerveza Brunello 400 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 179,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_52119.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59076.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 400 ml",
+      "Altura: 18.5 cm",
+      "Material: vidrio"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 60,
+    "codigo": "NF7956X6GYS",
+    "nombre": "Copa de degustación 600 ml Vidrio Barone Nadir Figueiredo",
+    "nombreCorto": "Copa Degustación Barone 600 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_53819.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59066.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 600 ml",
+      "Altura: 23.5 cm",
+      "Uso gastronómico"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 61,
+    "codigo": "NF7248X6GYS",
+    "nombre": "Copa cocktail 220 ml Vidrio Mistic Nadir",
+    "nombreCorto": "Copa Cocktail Mistic 220 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56023.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56024.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 220 ml",
+      "Altura: 15 cm",
+      "Modelo: Mistic",
+      "Marca: Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 62,
+    "codigo": "ML3096GYS",
+    "nombre": "Copa Champagne 170 ml Vidrio Perception Libbey",
+    "nombreCorto": "Copa Champagne Libbey 170 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43914.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59146.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 170 ml",
+      "Altura: 21.5 cm",
+      "Marca: Libbey"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 63,
+    "codigo": "NF7948X6GYS",
+    "nombre": "Copa Gin Tonic Cocktail de Vidrio 600 ml Nadir Figueiredo",
+    "nombreCorto": "Copa Gin Tonic 600 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48936.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59101.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 600 ml",
+      "Altura: 20 cm",
+      "Ideal para Gin Tonic"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 64,
+    "codigo": "NF0043X12GYS",
+    "nombre": "Copa Labrada 340 ml Marine Nadir",
+    "nombreCorto": "Copa Labrada Marine 340 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_55156.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59105.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 340 ml",
+      "Altura: 17 cm",
+      "Diseño labrado elegante"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 65,
+    "codigo": "NF0712X12GYS",
+    "nombre": "Copa Milkshake 360 ml de Vidrio Tropical Nadir",
+    "nombreCorto": "Copa Milkshake 360 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_53841.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59120.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 360 ml",
+      "Altura: 19 cm",
+      "Ideal para milkshakes"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 66,
+    "codigo": "ML4036GYS",
+    "nombre": "Copa Vino 430 ml Brillance Libbey",
+    "nombreCorto": "Copa Vino Libbey 430 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 259,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_61157.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_61217.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_61158.jpg"
+    ],
+    "detalles": [
+      "Altura: 22 cm",
+      "Marca: Libbey",
+      "Diseño elegante"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 67,
+    "codigo": "NF0911X12GYS",
+    "nombre": "Copa Ice Tea 470 ml Vidrio Bristol Nadir Figueiredo",
+    "nombreCorto": "Copa Ice Tea Bristol 470 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 259,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_53828.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59123.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 470 ml",
+      "Altura: 17.5 cm",
+      "Uso versátil"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 68,
+    "codigo": "MP44738GYS",
+    "nombre": "Copa de vino 590 ml Enoteca Pasabahce",
+    "nombreCorto": "Copa Vino Enoteca 590 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "copas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 299,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54942.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59161.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 590 ml",
+      "Altura: 24 cm",
+      "Marca: Pasabahce"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 69,
+    "codigo": "U4293GYS",
+    "nombre": "Jarra de Vidrio 500 ml Lyv Victory",
+    "nombreCorto": "Jarra Vidrio 500 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 195,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_47279.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 500 ml",
+      "Marca: Lyv Victory"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 70,
+    "codigo": "NF5414X6GYS",
+    "nombre": "Jarra de vidrio 1,5 L línea Bar Nadir",
+    "nombreCorto": "Jarra Vidrio 1,5 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 249,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_55151.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1,5 L",
+      "Altura: 21.6 cm",
+      "Línea Bar Nadir"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 71,
+    "codigo": "1089GYS",
+    "nombre": "Jarra Refresco 1.4 Lt Vidrio",
+    "nombreCorto": "Jarra Vidrio 1.4 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 290,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_49671.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63529.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.4 L",
+      "Altura: 20 cm",
+      "Material: Vidrio"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 72,
+    "codigo": "NF5412X6GYS",
+    "nombre": "Jarra Refresco 1.2 Lt Vidrio Polar Ladrillos Nadir",
+    "nombreCorto": "Jarra Polar 1.2 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63425.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63567.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.2 L",
+      "Altura: 23.9 cm",
+      "Marca: Nadir",
+      "Tapas en colores surtidos"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 73,
+    "codigo": "P0674GYS",
+    "nombre": "Jarra de Vidrio 1500 ml Genova Cristar",
+    "nombreCorto": "Jarra Genova 1.5 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_62231.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63589.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1500 ml",
+      "Altura: 20 cm",
+      "Marca: Cristar"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 74,
+    "codigo": "NF5410X6GYS",
+    "nombre": "Jarra Refresco 1.2 Lt Vidrio Americano Nadir",
+    "nombreCorto": "Jarra Americana 1.2 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 459,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63423.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63424.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.2 L",
+      "Altura: 21.5 cm",
+      "Material: Vidrio"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 75,
+    "codigo": "MM3922GYS",
+    "nombre": "Jarra vidrio 1.6 L Calypso Crisa",
+    "nombreCorto": "Jarra Calypso 1.6 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 490,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56296.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56297.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.6 L",
+      "Espesor: 5 mm",
+      "Marca: Crisa"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 76,
+    "codigo": "MP43028GYS",
+    "nombre": "Jarra Vidrio 1800 ml Carre Pasabahce",
+    "nombreCorto": "Jarra Carre 1.8 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 499,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_49900.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1800 ml",
+      "Marca: Pasabahce",
+      "Resistente"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 77,
+    "codigo": "M85064GYS",
+    "nombre": "Decantador de Vidrio Incoloro 1 Litro",
+    "nombreCorto": "Decantador Vidrio 1 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_47066.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63526.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1 L",
+      "Altura: 25 cm",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 78,
+    "codigo": "P0724GYS",
+    "nombre": "Decantador botellón de vidrio 1 L Torino Cristar",
+    "nombreCorto": "Decantador Torino 1 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_56993.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63533.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1000 ml",
+      "Marca: Cristar"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 79,
+    "codigo": "MP43634GYS",
+    "nombre": "Decantador 1,7 litros Celebration Pasabahce",
+    "nombreCorto": "Decantador Celebration 1.7 L",
+    "categoria": "cristaleria",
+    "subcategoria": "jaras",
+    "tipoVenta": "unidad",
+    "precioUnidad": 890,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_47615.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.7 L",
+      "Marca: Pasabahce"
+    ],
+    "tags": []
+  },
+  {
+  "orden": 80,
+  "codigo": "GOLDZB11400GYS",
+  "nombre": "Jarra de Cerveza 435 ml Set x 2",
+  "nombreCorto": "Jarra Cerveza 435 ml",
+  "categoria": "cristaleria",
+  "subcategoria": "jaras",
+  "tipoVenta": "pack",
+  "precioBase": 1072,
+  "packs": [2],
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_60209.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_60210.jpg"
+  ],
+  "detalles": [
+    "Capacidad: 435 ml",
+    "Set de 2 unidades"
+  ],
+  "tags": []
+},
+  {
+    "orden": 81,
+    "codigo": "M16532011GYS",
+    "nombre": "Asadera rectangular 1.6 L Classica Marinex",
+    "nombreCorto": "Asadera Marinex 1.6 L",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43886.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63581.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.6 L",
+      "Vidrio refractario Marinex"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 82,
+    "codigo": "M16534019GYS",
+    "nombre": "Asadera rectangular 2.2 L Classica Marinex",
+    "nombreCorto": "Asadera Marinex 2.2 L",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 490,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43887.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44277.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 2.2 L",
+      "Vidrio refractario Marinex"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 83,
+    "codigo": "M16222010GYS",
+    "nombre": "Asadera cuadrada 1.8 L Classic Marinex",
+    "nombreCorto": "Asadera Cuadrada 1.8 L",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 490,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_52720.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63623.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 1.8 L",
+      "Vidrio refractario Marinex"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 84,
+    "codigo": "M16664419GYS",
+    "nombre": "Asadera oval 4 L Classic Marinex",
+    "nombreCorto": "Asadera Oval 4 L",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 590,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_55247.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 4 L",
+      "Vidrio refractario Marinex"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 85,
+    "codigo": "GMI1019GYS",
+    "nombre": "Asadera Rectangular Acero 44x34 cm",
+    "nombreCorto": "Asadera Acero 44x34",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63986.jpg"
+    ],
+    "detalles": [
+      "Material: Acero",
+      "Medidas: 44x34 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 86,
+    "codigo": "GOLD7497GYS",
+    "nombre": "Asadera rectangular antiadherente 42.5x29x2.5 cm Goldsky",
+    "nombreCorto": "Asadera Antiadherente 42.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 459,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54118.jpg"
+    ],
+    "detalles": [
+      "Material: Antiadherente",
+      "Marca: Goldsky"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 87,
+    "codigo": "GMI1408GYS",
+    "nombre": "Asadera 49x34.5 cm Acero inoxidable",
+    "nombreCorto": "Asadera Inox 49 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63993.jpg"
+    ],
+    "detalles": [
+      "Material: Acero inoxidable",
+      "Medidas: 49x34.5 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 88,
+    "codigo": "GOLD749GYS",
+    "nombre": "Asadera rectangular antiadherente 37.5x25.5x2.5 cm Goldsky",
+    "nombreCorto": "Asadera Antiadherente 37.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48216.jpg"
+    ],
+    "detalles": [
+      "Material: Antiadherente",
+      "Marca: Goldsky"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 89,
+    "codigo": "20058030GYS",
+    "nombre": "Asadera para Pizza 30 cm Tramontina",
+    "nombreCorto": "Asadera Pizza 30 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 490,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58623.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58658.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 30 cm",
+      "Altura: 3.1 cm",
+      "Material: aluminio antiadherente Starflon T1",
+      "Marca: Tramontina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 90,
+    "codigo": "20076030GYS",
+    "nombre": "Asadera para Pizza 31.4 cm Fondo Perforado Tramontina",
+    "nombreCorto": "Asadera Pizza Perforada 31 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 590,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_55615.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 31 cm",
+      "Altura: 2 cm",
+      "Aluminio antiadherente Starflon T1",
+      "Fondo perforado",
+      "Marca: Tramontina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 91,
+    "codigo": "M293040GYS",
+    "nombre": "Asadera antiadherente con rejilla 37.5 x 25 x 5 cm Selecta",
+    "nombreCorto": "Asadera con rejilla Selecta",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 990,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_52370.jpg"
+    ],
+    "detalles": [
+      "Medidas: 37.5 x 25 x 5 cm",
+      "Material: teflón",
+      "Incluye rejilla",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 92,
+    "codigo": "20056624GYS",
+    "nombre": "Tartera Acanalada Redonda 24 cm 1.4 L Tramontina",
+    "nombreCorto": "Tartera Acanalada 24 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 459,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63872.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63873.jpg"
+    ],
+    "detalles": [
+      "Diámetro interno: 24 cm",
+      "Altura: 4 cm",
+      "Capacidad: 1.4 L",
+      "Aluminio antiadherente Starflon",
+      "Marca: Tramontina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 93,
+    "codigo": "20057026GYS",
+    "nombre": "Asadera redonda Brasil 26 cm Tramontina",
+    "nombreCorto": "Asadera Redonda 26 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 459,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_43798.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 26 cm",
+      "Altura: 5 cm",
+      "Aluminio antiadherente Starflon",
+      "Marca: Tramontina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 94,
+    "codigo": "20051040GYS",
+    "nombre": "Asadera rectangular 45 x 32 cm Brasil Tramontina",
+    "nombreCorto": "Asadera Tramontina 45x32",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 890,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_43796.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44191.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 7.2 L",
+      "Material: aluminio antiadherente Starflon Max",
+      "Uso horno gas y eléctrico",
+      "Marca: Tramontina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 95,
+    "codigo": "MA11352GYS",
+    "nombre": "Tortera Desmontable con Asas 35x32x6 cm",
+    "nombreCorto": "Tortera Desmontable con asas",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 490,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_60330.jpg"
+    ],
+    "detalles": [
+      "Diámetro interno: 29.5 cm",
+      "Altura: 6 cm",
+      "Con asas",
+      "Apta lavavajillas"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 96,
+    "codigo": "MBS10241LGYS",
+    "nombre": "Asadera rectangular antiadherente 47x31.5 cm Bakers Secret",
+    "nombreCorto": "Asadera Bakers Secret 47 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 690,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_63999.jpg"
+    ],
+    "detalles": [
+      "Medidas: 47 x 31.5 x 5 cm",
+      "Material: antiadherente",
+      "Marca: Bakers Secret"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 97,
+    "codigo": "MBS10430GYS",
+    "nombre": "Asadera Cuadrada Antiadherente Ultimate Negra Bakers Secret",
+    "nombreCorto": "Asadera Cuadrada Antiadherente",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 590,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66238.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66239.jpg"
+    ],
+    "detalles": [
+      "Medidas: 25.3 x 25.3 x 5 cm",
+      "Material: antiadherente",
+      "Marca: Bakers Secret"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 98,
+    "codigo": "20064024GYS",
+    "nombre": "Tartera con fondo Desmontable 24 cm Tramontina",
+    "nombreCorto": "Tartera Desmontable 24 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 549,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57017.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 24 cm",
+      "Fondo desmontable",
+      "Material: aluminio antiadherente",
+      "Marca: Tramontina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 99,
+    "codigo": "ILK20009GYS",
+    "nombre": "Molde Budinera rectangular de Acero estañado 31 cm Ilko",
+    "nombreCorto": "Budinera Acero 31 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 359,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_47554.jpg"
+    ],
+    "detalles": [
+      "Medidas: 31 x 11.5 x 7 cm",
+      "Material: acero estañado",
+      "Marca: Ilko"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 100,
+    "codigo": "M293034GYS",
+    "nombre": "Molde Tartera con fondo desmontable 26x3 cm Selecta",
+    "nombreCorto": "Tartera Desmontable 26 cm",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 390,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58369.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58370.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 26 cm",
+      "Altura: 3 cm",
+      "Fondo desmontable",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 101,
+    "codigo": "M293076GYS",
+    "nombre": "Tortera Cuadrada Desmontable 26x6.5 cm Antiadherente Selecta",
+    "nombreCorto": "Tortera Cuadrada Desmontable",
+    "categoria": "cocina",
+    "subcategoria": "asaderas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 445,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66077.jpg"
+    ],
+    "detalles": [
+      "Medidas: 26 x 26 x 6.5 cm",
+      "Antiadherente",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 102,
+    "codigo": "NF7304X24GYS",
+    "nombre": "Bowl frutillero 310 ml vidrio Nadir",
+    "nombreCorto": "Bowl frutillero 310 ml",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 70,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59205.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59806.jpg"
+    ],
+    "detalles": [
+      "Diámetro de boca: 8.5 cm",
+      "Alto: 6 cm",
+      "Capacidad: 310 ml",
+      "Bowl de vidrio, ideal para postres"
+    ],
+    "tags": ["destacado"]
+  },
+  {
+    "orden": 103,
+    "codigo": "NF5344X24GYS",
+    "nombre": "Plato Opal Petala de postre 19.5 cm Nadir",
+    "nombreCorto": "Plato Opal Petala 19.5",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 99,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44587.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 19.5 cm",
+      "Resistentes a impactos",
+      "Resistentes a choques térmicos",
+      "Apto para lavavajillas",
+      "Apto para microondas",
+      "Material vidrio opalino templado",
+      "Marca Nadir Figueredo"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 104,
+    "codigo": "NS4001GYS",
+    "nombre": "Plato de pan 15 cm cerámica blanca Gourmet BG",
+    "nombreCorto": "Plato de pan 15 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 115,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_52170.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 16,3 cm",
+      "Material: Cerámica blanca",
+      "Marca: BG",
+      "NS4001-15"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 105,
+    "codigo": "MP40106GYS",
+    "nombre": "Plato postre 20 cm cerámica Handcrafted",
+    "nombreCorto": "Plato postre 20 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 149,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66126.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 2 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 106,
+    "codigo": "IMP40059GYS",
+    "nombre": "Plato de postre 20 cm cerámica celeste",
+    "nombreCorto": "Plato postre 20 cm celeste",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 149,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66134.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Alto: 1.8 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 107,
+    "codigo": "IMP40113GYS",
+    "nombre": "Plato de postre 21 cm cerámica marrón",
+    "nombreCorto": "Plato postre 21 cm marrón",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 149,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66135.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 21 cm",
+      "Altura: 2 cm",
+      "Color: Marrón"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 108,
+    "codigo": "NF5744X24GYS",
+    "nombre": "Plato Opal Petala llano 25.5 cm Nadir",
+    "nombreCorto": "Plato Opal Petala llano 25.5",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 159,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44585.jpg"
+    ],
+    "detalles": [
+      "Medida: 25,5 cm",
+      "Resistentes a impactos",
+      "Resistentes a choques térmicos",
+      "Apto para lavavajillas",
+      "Apto para microondas",
+      "Material vidrio opalino templado"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 109,
+    "codigo": "GOLDSC12967GYS",
+    "nombre": "Fuente redonda con asas 17,5 cm cerámica Goldsky",
+    "nombreCorto": "Fuente redonda 17,5 cm",
+    "categoria": "cocina",
+    "subcategoria": "fuentes",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54376.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 17.5 cm",
+      "Altura: 3 cm",
+      "Peso: 270 g",
+      "Capacidad: 150 ml",
+      "Marca: Goldsky",
+      "Material: cerámica blanca"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 110,
+    "codigo": "MP40061GYS",
+    "nombre": "Plato hondo 20.5 cm cerámica azul",
+    "nombreCorto": "Plato hondo 20.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66192.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20,5 cm",
+      "Altura: 3.9 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 111,
+    "codigo": "IMP40112GYS",
+    "nombre": "Plato mesa 27 cm cerámica marrón",
+    "nombreCorto": "Plato mesa 27 cm marrón",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66131.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 27 cm",
+      "Alto: 2 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 112,
+    "codigo": "IMP40114GYS",
+    "nombre": "Plato ensalada 20 cm cerámica marrón",
+    "nombreCorto": "Plato ensalada 20 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66133.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 3.5 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 113,
+    "codigo": "IMP40058GYS",
+    "nombre": "Plato mesa 26 cm cerámica azul martillado",
+    "nombreCorto": "Plato mesa 26 cm azul",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66127.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 26.5 cm",
+      "Profundidad: 2 cm",
+      "Material: Cerámica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 114,
+    "codigo": "M2871031GYS",
+    "nombre": "Plato de mesa 26 cm Ibiza cerámica blanca",
+    "nombreCorto": "Plato mesa 26 cm Ibiza",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59700.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59702.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 26 cm",
+      "Color: Blanco",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 115,
+    "codigo": "M2871053",
+    "nombre": "Plato hondo 23 cm cerámica Ibiza blanco",
+    "nombreCorto": "Plato hondo 23 cm Ibiza",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_64930.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_64931.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 22.8 cm",
+      "Altura: 5 cm",
+      "Capacidad: 1000 ml"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 116,
+    "codigo": "IMP40105GYS",
+    "nombre": "Plato mesa 27 cm cerámica Handcrafted",
+    "nombreCorto": "Plato mesa 27 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66212.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 27 cm",
+      "Altura: 2 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 117,
+    "codigo": "IMP40077GYS",
+    "nombre": "Plato 20 cm cerámica negro",
+    "nombreCorto": "Plato 20 cm negro",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 179,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66049.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66050.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Alto: 2 cm",
+      "Color: Negro",
+      "Material: Cerámica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 118,
+    "codigo": "IMP40076GYS",
+    "nombre": "Plato 26 cm cerámica negro",
+    "nombreCorto": "Plato 26 cm negro",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66051.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66052.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 26 cm",
+      "Altura: 2 cm",
+      "Color: Negro",
+      "Material: Cerámica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 119,
+    "codigo": "M2871013GYS",
+    "nombre": "Plato para postre 19.5 cm cerámica azul Organic",
+    "nombreCorto": "Plato postre 19.5 Organic",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57393.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 19.5 cm",
+      "Color: Azul",
+      "Material: Cerámica",
+      "Marca: Organic"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 120,
+    "codigo": "X133559GYS",
+    "nombre": "Plato hondo 20.5 cm Brisa porcelana Oxford",
+    "nombreCorto": "Plato hondo 20.5 Oxford",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 229,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65753.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65741.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 5 cm",
+      "Porcelana Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 121,
+    "codigo": "ME24009GYS",
+    "nombre": "Plato de sopa 22.5 cm melamina blanco",
+    "nombreCorto": "Plato sopa 22.5",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 249,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_59804.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 22.5 cm",
+      "Altura: 3.5 cm",
+      "Material: Melamina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 122,
+    "codigo": "M2871016GYS",
+    "nombre": "Plato hondo 20 cm cerámica azul Organic",
+    "nombreCorto": "Plato hondo 20 Organic",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 229,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57360.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 4 cm",
+      "Color: Azul",
+      "Material: Cerámica",
+      "Marca: Organic"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 123,
+    "codigo": "ME10080GYS",
+    "nombre": "Plato de postre melamina 20 cm blanco",
+    "nombreCorto": "Plato postre 20 melamina",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57945.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 1 cm",
+      "Peso: 130 grs",
+      "Material: Melamina",
+      "Color: Blanco",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 124,
+    "codigo": "ME16109GYS",
+    "nombre": "Plato llano 23 cm blanco melamina",
+    "nombreCorto": "Plato llano 23 melamina",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 249,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_59803.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 23 cm",
+      "Altura: 2 cm",
+      "Material: Melamina",
+      "Color: Blanco"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 125,
+    "codigo": "ME7120175122GYS",
+    "nombre": "Taza de Té con plato melamina 220 ml Blanco",
+    "nombreCorto": "Taza té melamina 220 ml",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 359,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_61132.jpg"
+    ],
+    "detalles": [
+      "Diámetro boca taza: 8 cm",
+      "Diámetro base taza: 7 cm",
+      "Altura taza: 6.5 cm",
+      "Plato diámetro: 13.7 cm",
+      "Altura plato: 1.5 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 126,
+    "codigo": "LP3002GYS",
+    "nombre": "Plato postre 17.5 cm Melamina negro",
+    "nombreCorto": "Plato postre melamina 17.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 199,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_63165.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 17.5 cm",
+      "Altura: 2 cm",
+      "Material: Melamina",
+      "Color: Negro",
+      "Marca: Prisma"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 127,
+    "codigo": "LP3004GYS",
+    "nombre": "Plato 22.5 cm Melamina Negro",
+    "nombreCorto": "Plato melamina 22.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 289,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_63157.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 22.5 cm",
+      "Altura: 2.5 cm",
+      "Material: Melamina",
+      "Color: Negro",
+      "Marca: Prisma"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 128,
+    "codigo": "LP3007GYS",
+    "nombre": "Plato Bandeja rectangular 26.5x11.5x1.8 cm Melamina negro",
+    "nombreCorto": "Bandeja melamina rectangular",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 299,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63150.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63151.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63152.jpg"
+    ],
+    "detalles": [
+      "Largo: 26.5 cm",
+      "Ancho: 11.5 cm",
+      "Altura: 1.8 cm",
+      "Material: Melamina"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 129,
+    "codigo": "M2871012GYS",
+    "nombre": "Plato mesa de Cerámica 24 cm Azul Organic",
+    "nombreCorto": "Plato cerámica azul 24 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 229,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_57374.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59430.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 24 cm",
+      "Material: Cerámica",
+      "Color: Azul",
+      "Marca: Organic"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 130,
+    "codigo": "X103223GYS",
+    "nombre": "Plato Postre 21.5 cm Maresia Ryo Porcelana Oxford",
+    "nombreCorto": "Plato postre Maresia 21.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 259,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65769.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65733.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 21.5 cm",
+      "Altura: 2 cm",
+      "Material: Porcelana",
+      "Marca: Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 131,
+    "codigo": "X103222GYS",
+    "nombre": "Plato Hondo 22 cm Maresia Ryo Porcelana Oxford",
+    "nombreCorto": "Plato hondo Maresia 22 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 299,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65768.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65734.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 21.5 cm",
+      "Altura: 3 cm",
+      "Material: Porcelana",
+      "Marca: Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 132,
+    "codigo": "X103221GYS",
+    "nombre": "Plato Llano 27.5 cm Porcelana Maresia Ryo Oxford",
+    "nombreCorto": "Plato llano Maresia 27.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 399,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65767.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65732.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 27.5 cm",
+      "Altura: 2 cm",
+      "Material: Porcelana",
+      "Marca: Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 133,
+    "codigo": "M540016GYS",
+    "nombre": "Plato de cerámica con mango 24x19x3 cm Verde mate Select",
+    "nombreCorto": "Plato cerámica con mango",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 299,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_52456.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65416.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 17.3 cm",
+      "Largo total: 22.2 cm",
+      "Altura: 3 cm",
+      "Material: Cerámica",
+      "Color: Verde pastel",
+      "Marca: Selecta",
+      "Apto lavavajillas y microondas"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 134,
+    "codigo": "X136392GYS",
+    "nombre": "Plato de Postre 20 cm Porcelana Onix Oxford",
+    "nombreCorto": "Plato postre Onix 20 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 269,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66000.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 2 cm",
+      "Material: Porcelana",
+      "Color: Negro",
+      "Marca: Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 135,
+    "codigo": "X136394GYS",
+    "nombre": "Plato Hondo 20.5 cm Onix Porcelana Oxford",
+    "nombreCorto": "Plato hondo Onix 20.5 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 299,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65960.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65961.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20.5 cm",
+      "Altura: 4 cm",
+      "Material: Porcelana",
+      "Marca: Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 136,
+    "codigo": "X136393GYS",
+    "nombre": "Plato llano 26 cm Porcelana Onix Oxford",
+    "nombreCorto": "Plato llano Onix 26 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 349,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_65968.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 26 cm",
+      "Altura: 2.5 cm",
+      "Material: Porcelana",
+      "Marca: Oxford"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 137,
+    "codigo": "M564011GYS",
+    "nombre": "Plato de Mesa 25 cm Diseño flores blancas",
+    "nombreCorto": "Plato flores blancas 25 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 349,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57269.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 25 cm",
+      "Altura: 2 cm",
+      "Material: Cerámica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 138,
+    "codigo": "M205095GYS",
+    "nombre": "Plato Cuadrado 20 cm Madera Acacia",
+    "nombreCorto": "Plato cuadrado acacia 20 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 499,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_59802.jpg"
+    ],
+    "detalles": [
+      "Largo: 20 cm",
+      "Ancho: 20 cm",
+      "Altura: 3 cm",
+      "Material: Madera Acacia",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 139,
+    "codigo": "M205126GYS",
+    "nombre": "Plato Redondo 20 cm Madera Acacia Selecta",
+    "nombreCorto": "Plato redondo acacia 20 cm",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 499,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_65987.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 20 cm",
+      "Altura: 2.5 cm",
+      "Material: Madera Acacia",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 140,
+    "codigo": "M205125GYS",
+    "nombre": "Plato redondo 25 cm exterior negro madera acacia",
+    "nombreCorto": "Plato acacia 25 cm negro",
+    "categoria": "cocina",
+    "subcategoria": "platos",
+    "tipoVenta": "unidad",
+    "precioUnidad": 690,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66035.jpg"
+    ],
+    "detalles": [
+      "Diámetro: 25 cm",
+      "Altura: 2.5 cm",
+      "Material: Madera Acacia"
+    ],
+    "tags": []
+  },
+{
+  "orden": 141,
+  "codigo": "M403013GYS",
+  "nombre": "Cepillo limpia parrilla 41 cm Acero Galvanizado Selecta",
+  "nombreCorto": "Cepillo parrilla 41 cm",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 390,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos3_47543.jpg"
+  ],
+  "detalles": [
+    "Largo: 41 cm",
+    "Ancho: 16.5 cm",
+    "Acero galvanizado",
+    "Mango de madera"
+  ],
+  "tags": []
+},
+{
+  "orden": 142,
+  "codigo": "M403016GYS",
+  "nombre": "Pinchos para asado Set x4",
+  "nombreCorto": "Pinchos para asado x4",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 480,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_62497.jpg"
+  ],
+  "detalles": [
+    "Largo: 44 cm",
+    "Acero inoxidable y madera",
+    "Marca: Selecta"
+  ],
+  "tags": []
+},
+{
+  "orden": 143,
+  "codigo": "M403006GYS",
+  "nombre": "Cuchillo Para Parrilla 45 cm",
+  "nombreCorto": "Cuchillo parrilla 45 cm",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 469,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos3_46158.jpg"
+  ],
+  "detalles": [
+    "Mango de madera",
+    "Hoja de acero inoxidable"
+  ],
+  "tags": []
+},
+{
+  "orden": 144,
+  "codigo": "M403011GYS",
+  "nombre": "Pincel de silicona para Parrilla 43 cm",
+  "nombreCorto": "Pincel parrilla 43 cm",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 491,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_45895.jpg"
+  ],
+  "detalles": [
+    "Largo: 43 cm",
+    "Material: silicona y madera",
+    "Marca: Selecta"
+  ],
+  "tags": []
+},
+{
+  "orden": 145,
+  "codigo": "M403003GYS",
+  "nombre": "Set para asado 2 piezas Selecta",
+  "nombreCorto": "Set asado 2 piezas",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 890,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_55496.jpg"
+  ],
+  "detalles": [
+    "1 trinchante 46 cm",
+    "1 cuchillo 45.5 cm"
+  ],
+  "tags": []
+},
+{
+  "orden": 146,
+  "codigo": "26594100GYS",
+  "nombre": "Cepillo para Parrilla Tramontina",
+  "nombreCorto": "Cepillo parrilla Tramontina",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 590,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_64259.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_64260.jpg"
+  ],
+  "detalles": [
+    "Largo total: 40.2 cm",
+    "No apto lavavajillas",
+    "Cerdas resistentes"
+  ],
+  "tags": []
+},
+{
+  "orden": 147,
+  "codigo": "22299013GYS",
+  "nombre": "Juego trinchante para asado 2 piezas Churrasco Tramontina",
+  "nombreCorto": "Juego trinchante 2 piezas",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 590,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_53408.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_51706.jpg"
+  ],
+  "detalles": [
+    "Cuchillo y tenedor",
+    "Hojas de acero inoxidable",
+    "Mangos rústicos"
+  ],
+  "tags": ["destacado"]
+},
+{
+  "orden": 148,
+  "codigo": "M205030-MGYS",
+  "nombre": "Tabla Rectangular 30x21x2 cm De Madera Selecta",
+  "nombreCorto": "Tabla madera 30x21",
+  "categoria": "parrilla",
+  "subcategoria": "tablas",
+  "tipoVenta": "unidad",
+  "precioUnidad": 690,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos3_50534.jpg"
+  ],
+  "detalles": [
+    "Largo: 30 cm",
+    "Ancho: 21 cm",
+    "Grosor: 2 cm",
+    "Madera"
+  ],
+  "tags": []
+},
+{
+  "orden": 149,
+  "codigo": "M205029GYS",
+  "nombre": "Tabla Redonda de Madera 30x2 cm Selecta",
+  "nombreCorto": "Tabla redonda 30 cm",
+  "categoria": "parrilla",
+  "subcategoria": "tablas",
+  "tipoVenta": "unidad",
+  "precioUnidad": 990,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_50951.jpg"
+  ],
+  "detalles": [
+    "Diámetro: 30 cm",
+    "Grosor: 2 cm",
+    "Madera de acacia"
+  ],
+  "tags": []
+},
+{
+  "orden": 150,
+  "codigo": "M205030-LGYS",
+  "nombre": "Tabla rectangular de madera 46x30x2.5 cm",
+  "nombreCorto": "Tabla madera 46x30",
+  "categoria": "parrilla",
+  "subcategoria": "tablas",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1490,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_57170.jpg"
+  ],
+  "detalles": [
+    "Largo: 46 cm",
+    "Ancho: 30 cm",
+    "Altura: 2.5 cm"
+  ],
+  "tags": []
+},
+{
+  "orden": 151,
+  "codigo": "M205084GYS",
+  "nombre": "Tabla para picada 62.5x13x3.7 cm",
+  "nombreCorto": "Tabla picada 62.5 cm",
+  "categoria": "parrilla",
+  "subcategoria": "tablas",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1590,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos3_57150.jpg"
+  ],
+  "detalles": [
+    "Largo total: 62.5 cm",
+    "Madera",
+    "Marca: Selecta"
+  ],
+  "tags": []
+},
+{
+  "orden": 152,
+  "codigo": "M460007GYS",
+  "nombre": "Tabla Redonda 36 cm Madera Acanalada Acacia",
+  "nombreCorto": "Tabla redonda 36 cm",
+  "categoria": "parrilla",
+  "subcategoria": "tablas",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1890,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_66029.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_66030.jpg"
+  ],
+  "detalles": [
+    "Diámetro: 36 cm",
+    "Grosor: 3.6 cm",
+    "Madera de acacia"
+  ],
+  "tags": []
+},
+{
+  "orden": 153,
+  "codigo": "M273S-01GYS",
+  "nombre": "Provolonera de Cerámica 18.4 x 11.3 x 2.5 cm Negro La Provo",
+  "nombreCorto": "Provolonera cerámica negra",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 390,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos3_66211.jpg"
+  ],
+  "detalles": [
+    "Largo: 18.5 cm",
+    "Ancho: 11.5 cm",
+    "Altura: 2.5 cm",
+    "Apta para horno, microondas y parrilla",
+    "Cerámica esmaltada"
+  ],
+  "tags": []
+},
+{
+  "orden": 154,
+  "codigo": "M273GYS",
+  "nombre": "Provolonera de cerámica terracota 22 x 26 cm La Provo",
+  "nombreCorto": "Provolonera cerámica terracota",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 590,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_59234.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_46305.jpg"
+  ],
+  "detalles": [
+    "Largo: 22 cm",
+    "Ancho: 26 cm",
+    "Peso: 620 g",
+    "19 cavidades",
+    "Apta para horno, parrilla y microondas",
+    "Esmaltada de gran calidad",
+    "Libre de plomo y cadmio",
+    "Aprobada Mercosur, UE y FDA"
+  ],
+  "tags": []
+},
+
+{
+  "orden": 155,
+  "codigo": "23498449GYS",
+  "nombre": "Juego de asado 3 piezas Plenus Tramontina",
+  "nombreCorto": "Juego asado 3 piezas",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 890,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_57193.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_57194.jpg"
+  ],
+  "detalles": [
+    "Cuchillo, tenedor y pinza",
+    "Hojas de acero inoxidable",
+    "Mangos de polipropileno",
+    "Apto lavavajillas",
+    "Marca: Tramontina"
+  ],
+  "tags": []
+},
+{
+  "orden": 156,
+  "codigo": "22399098GYS",
+  "nombre": "Juego de asado 3 piezas con tabla Tramontina",
+  "nombreCorto": "Juego asado 3 con tabla",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1590,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_64262.jpg"
+  ],
+  "detalles": [
+    "Incluye cuchillo para carne 20 cm",
+    "Incluye tenedor trinchante",
+    "Incluye tabla de madera 38.5 x 20.2 x 1 cm",
+    "Marca: Tramontina"
+  ],
+  "tags": []
+},
+
+{
+  "orden": 157,
+  "codigo": "26499045GYS",
+  "nombre": "Juego de asado 3 piezas Tramontina",
+  "nombreCorto": "Juego asado 3 piezas grande",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1390,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_48679.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_63884.jpg"
+  ],
+  "detalles": [
+    "Pinza, cuchillo y tenedor",
+    "Láminas de acero inoxidable",
+    "Cabos de madera",
+    "Marca: Tramontina"
+  ],
+  "tags": []
+},
+{
+  "orden": 158,
+  "codigo": "M06-9924-69-00GYS",
+  "nombre": "Set 3 piezas Asado Tradición Di Solle",
+  "nombreCorto": "Set asado Tradición 3 piezas",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1690,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_53700.jpg"
+  ],
+  "detalles": [
+    "Set parrilla profesional",
+    "Láminas de acero inoxidable",
+    "Mangos de madera con remaches",
+    "Incluye cuchilla, tenedor y pinza"
+  ],
+  "tags": []
+},
+{
+  "orden": 159,
+  "codigo": "22299-009GYS",
+  "nombre": "Cubiertos para asado 12 piezas Churrasco Tramontina",
+  "nombreCorto": "Cubiertos asado 12 piezas",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 990,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_52247.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_52248.jpg"
+  ],
+  "detalles": [
+    "Set de 6 cuchillos y 6 tenedores",
+    "Láminas de acero inoxidable",
+    "Mangos de madera",
+    "Remaches de aluminio",
+    "Marca: Tramontina"
+  ],
+  "tags": []
+},
+{
+  "orden": 160,
+  "codigo": "22399063GYS",
+  "nombre": "Juego de cubiertos asado JUMBO 12 piezas Dynamic Tramontina",
+  "nombreCorto": "Cubiertos asado JUMBO 12",
+  "categoria": "parrilla",
+  "subcategoria": "accesorios",
+  "tipoVenta": "unidad",
+  "precioUnidad": 1690,
+  "imagenes": [
+    "https://www.goldsky.com.uy/imgs/productos/productos1_55697.jpg",
+    "https://www.goldsky.com.uy/imgs/productos/productos1_55698.jpg"
+  ],
+  "detalles": [
+    "Set JUMBO de 12 piezas",
+    "Cuchillos: 25 cm de largo",
+    "Tenedores: 21 cm de largo",
+    "Láminas de acero inoxidable con tratamiento térmico",
+    "Mangos de madera natural",
+    "Marca: Tramontina"
+  ],
+  "tags": ["destacado"]
+}
+
+]
