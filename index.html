@@ -968,6 +968,34 @@ main{
   box-shadow:0 10px 22px rgba(0,0,0,.45);
 }
 
+/* ===============================
+   📱 PANTALLAS MUY CHICAS
+   SIN MENU DESPLEGABLE
+================================ */
+
+@media (max-width:360px){
+
+  /* ocultar títulos clickeables */
+  .menu-title{
+    pointer-events:none;
+    font-weight:bold;
+    padding-bottom:6px;
+  }
+
+  /* mostrar siempre subgrupos */
+  .menu-content{
+    display:flex !important;
+    flex-direction:column;
+    gap:6px;
+  }
+
+  /* quitar acordeón visual */
+  .menu-item{
+    border-bottom:1px solid rgba(0,0,0,.08);
+  }
+}
+
+
 </style>
 </head>
 <body>
@@ -975,6 +1003,7 @@ main{
   <span>📅 Catálogo · FEBRERO 2026</span>
   <span>🔖 Versión 1.0</span>
 </div>
+
 <header>
 <img src="https://res.cloudinary.com/difzr74xr/image/upload/v1769713484/inicioportadacatalogodvetro_cbn7nm.jpg">
 <p>Cristalería y bazar · Envíos sin cargo en Montevideo</p>
@@ -1029,6 +1058,7 @@ main{
 
   <div class="menu-item">
     <button class="menu-title" onclick="toggleMenu(this)">🔥 Parrilla</button>
+
     <div class="menu-content">
       <button onclick="filtrarCategoria('parrilla')">Todos</button>
       <button onclick="filtrarSub('parrilla','tablas')">Tablas</button>
@@ -1050,15 +1080,11 @@ main{
   <span>D’Vetro · marca registrada</span>
 </div>
 
-
-
 </nav>
-<!-------------------------------------------------------------------PRODUCTOS---------------------------------------------------------------------------------------------->
 
 <div class="container" id="productos">
 </div>
 
-<!---------------------------------------------------------------- FIN PRODUCTOS ------------------------------------------------------------------------------------------->
 <!-- CARRITO -->
 <div id="carrito">
 <button onclick="toggle()">← Seguir buscando</button>
@@ -1076,12 +1102,15 @@ main{
 
 <div class="whatsapp" onclick="enviar()">Enviar pedido a D'vetro</div>
 </div>
+
 <div id="barra" onclick="toggle()">
 <span id="resumen">🛒 Mi pedido</span>
 </div>
+
 <div id="zoomOverlay" onclick="cerrarZoom()">
 <img id="zoomImg" onclick="event.stopPropagation()">
 </div>
+
 <script>
 
 
@@ -1528,17 +1557,22 @@ document.querySelectorAll('.producto').forEach(prod=>{
 document.querySelector(".menu-acciones button:nth-child(1)")
   ?.classList.add("activo");
 
+
 function toggleMenu(btn){
+  // si pantalla muy chica, no hacer nada
+  if(window.innerWidth <= 360) return;
+
   const item = btn.closest('.menu-item');
+  const abierto = item.classList.contains('activo');
 
   document.querySelectorAll('.menu-item').forEach(i=>{
-    if(i !== item) i.classList.remove('activo');
+    i.classList.remove('activo');
   });
 
-  item.classList.toggle('activo');
+  if(!abierto){
+    item.classList.add('activo');
+  }
 }
-
-
 
 /* === MENU ACORDEON LIMPIO === */
 document.querySelectorAll('.menu details').forEach(detalle=>{
@@ -1565,7 +1599,9 @@ function cerrarMenu(){
 }
 
 </script>
+
 </main>
+
 <footer class="footer">
   <div class="footer-contenido">
     <p class="footer-titulo">Medios de pago</p>
@@ -1583,6 +1619,7 @@ function cerrarMenu(){
     </p>
   </div>
 </footer>
+
 <a
   href="https://wa.me/59895770717?text=Hola%20.%20Estoy%20viendo%20el%20catálogo%20y%20quisiera%20hacer%20una%20consulta%20."
   class="whatsapp-float"
@@ -1594,5 +1631,6 @@ function cerrarMenu(){
     alt="WhatsApp"
   >
 </a>
+
 </body>
 </html>
