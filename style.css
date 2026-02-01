@@ -1,0 +1,1297 @@
+
+:root{
+  --principal:#8B5E3C;
+  --secundario:#B08968;
+  --fondo:#FAF7F4;
+  --texto:#3A2E2A;
+  --verde:#25D366;
+}
+
+*{box-sizing:border-box}
+
+html{
+  font-size:16px;
+}
+
+body{
+  font-family:Arial,sans-serif;
+  line-height:1.4;
+}
+
+p, li, span, label, input, select, button{
+  font-size:1rem;
+}
+/* ===== HEADER ===== */
+header{
+  background:linear-gradient(135deg,var(--principal),var(--secundario));
+}
+header img{width:100%;display:block}
+header p{
+  margin:0;
+  padding:10px;
+  text-align:center;
+  color:#fff;
+  font-size:14px;
+}
+
+/* ===== GRID RESPONSIVE REAL ===== */
+.container{
+  padding:15px;
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(230px, 1fr));
+  gap:14px;
+}
+.producto{
+  background:#fff;
+  border-radius:16px;
+  padding:12px;
+  box-shadow:0 4px 10px rgba(0,0,0,.1);
+  position:relative; /* 👈 CLAVE */
+}
+#productos{
+  scroll-margin-top: 160px;
+}
+
+/* ===== GALERIA ===== */
+.galeria{
+  position:relative;
+  overflow:hidden;
+  border-radius:12px;
+  margin-bottom:8px;
+}
+.galeria-track{
+  display:flex;
+  transition:transform .3s ease;
+}
+.galeria-track img{
+  width:100%;
+  flex-shrink:0;
+  border-radius:12px;
+  cursor:zoom-in;
+}
+.flecha{
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  width:30px;height:30px;
+  border-radius:50%;
+  background:rgba(0,0,0,.4);
+  color:#fff;
+  border:none;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:20px;
+  cursor:pointer;
+}
+.flecha.izq{left:6px}
+.flecha.der{right:6px}
+
+/* ===== INFO ===== */
+h2{color:var(--principal);margin:6px 0}
+.codigo{font-size:13px;color:#777}
+.precio{
+  display:inline-block;
+  margin-top:6px;
+  padding:6px 10px;
+  background:rgba(139,94,60,.1);
+  border-radius:8px;
+  font-weight:bold;
+}
+
+select,button,input{
+  width:100%;
+  margin-top:8px;
+  padding:10px;
+  border-radius:8px;
+  border:1px solid #ccc;
+}
+
+button{
+  background:linear-gradient(135deg,var(--principal),var(--secundario));
+  color:#fff;
+  font-weight:bold;
+  border:none;
+  cursor:pointer;
+}
+
+/* ===== DETALLES ===== */
+.detalles{
+  margin-top:10px;
+  padding:10px;
+  background:#f6f2ee;
+  border-radius:10px;
+  font-size:14px;
+}
+.detalles strong{color:var(--principal)}
+.detalles ul{margin:6px 0 0;padding-left:18px}
+
+/* ===== BARRA ===== */
+#barra{
+  position:fixed;
+  bottom:0;left:0;
+  width:100%;
+  background:linear-gradient(135deg,var(--principal),var(--secundario));
+  color:#fff;
+  padding:12px;
+  display:none;
+  justify-content:center;
+  font-weight:bold;
+  cursor:pointer;
+  z-index:1000;
+}
+
+/* ===== CARRITO ===== */
+#carrito{
+  position:fixed;
+  top:0;right:0;
+  width:90%;max-width:380px;
+  height:100vh;
+  background:#fff;
+  box-shadow:-8px 0 24px rgba(0,0,0,.25);
+  transform:translateX(100%);
+  transition:.35s ease;
+  padding:15px;
+  z-index:1001;
+  overflow:auto;
+}
+#carrito.abierto{transform:translateX(0)}
+
+#lista{list-style:none;padding:0}
+.controles{display:flex;gap:6px;margin-top:6px}
+.controles button{
+  width:32px;height:32px;border-radius:50%;
+  border:none;font-weight:bold;font-size:16px;
+}
+.sumar{background:#e8f5ee;color:#1e7f4f}
+.restar{background:#fbeaea;color:#a33}
+.borrar{background:#eee;color:#555}
+
+/* ===== DIRECCION ===== */
+.direccion{
+  margin-top:14px;
+  padding:12px;
+  background:#f6f2ee;
+  border-radius:14px;
+}
+.direccion h4{margin:0 0 8px;color:var(--principal)}
+.ayuda{font-size:12px;color:#777}
+
+/* ===== WHATSAPP ===== */
+.whatsapp{
+  background:linear-gradient(135deg,#1ebe5d,#25D366);
+  color:#fff;
+  padding:14px;
+  text-align:center;
+  border-radius:10px;
+  margin-top:10px;
+  font-weight:bold;
+  cursor:pointer;
+}
+
+/* ===== ZOOM ===== */
+#zoomOverlay{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,.9);
+  display:none;
+  justify-content:center;
+  align-items:center;
+  z-index:2000;
+}
+#zoomOverlay img{max-width:100%;max-height:98vh;border-radius:8px}
+
+/* ===== FILTROS ===== */
+.filtros{
+  display:flex;
+  gap:8px;
+  padding:12px 15px 0;
+}
+
+.filtros button{
+  flex:1;
+  padding:8px;
+  border-radius:20px;
+  font-size:14px;
+  background:#fff;
+  color:var(--principal);
+  border:1px solid rgba(139,94,60,.3);
+}
+
+.filtros button.activo{
+  background:linear-gradient(135deg,var(--principal),var(--secundario));
+  color:#fff;
+}
+
+/* ===== MENU CATEGORIAS ===== */
+.menu-categorias{
+  display:flex;
+  gap:10px;
+  padding:12px 15px;
+  overflow-x:auto;
+}
+
+.menu-categorias::-webkit-scrollbar{
+  display:none;
+}
+
+.menu-categorias button{
+  padding:8px 16px;
+  border-radius:999px;
+  border:1px solid rgba(139,94,60,.25);
+  background:#fff;
+  color:var(--principal);
+  font-size:14px;
+  font-weight:500;
+  white-space:nowrap;
+  transition:.25s ease;
+}
+
+.menu-categorias button.activo{
+  background:linear-gradient(135deg,var(--principal),var(--secundario));
+  color:#fff;
+  border-color:transparent;
+}
+
+/* ===== MENU DESPLEGABLE ===== */
+.menu{
+  padding:12px 15px;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+.menu button.simple{
+  background:linear-gradient(135deg,var(--principal),var(--secundario));
+  color:#fff;
+  border-radius:999px;
+  padding:10px;
+}
+
+/* ===== DETALLES DESPLEGABLES ===== */
+.detalles{
+  margin-top:10px;
+  background:#f6f2ee;
+  border-radius:10px;
+  padding:8px 10px;
+}
+
+.detalles summary{
+  cursor:pointer;
+  font-weight:600;
+  color:var(--principal);
+  list-style:none;
+}
+
+.detalles summary::-webkit-details-marker{
+  display:none;
+}
+
+.detalles ul{
+  margin:8px 0 0;
+  padding-left:18px;
+  font-size:14px;
+}
+
+/* ===== BADGES ===== */
+.badge{
+  position:absolute;          /* 👈 NO ocupa espacio */
+  top:10px;
+  left:10px;
+  font-size:12px;
+  padding:4px 8px;
+  border-radius:999px;
+  z-index:10;
+}
+
+.badge.destacado{
+  background:#f5c542;
+  color:#3a2e2a;
+}
+
+/* ===== PRODUCTO AGOTADO ===== */
+.producto.agotado{
+  opacity:0.75;
+}
+
+.producto.agotado::after{
+  content:"AGOTADO";
+  position:absolute;
+  top:10px;
+  right:10px;
+  background:#a33;
+  color:#fff;
+  font-size:12px;
+  padding:4px 10px;
+  border-radius:999px;
+  font-weight:bold;
+  z-index:15;
+}
+
+/* ===== FAVORITOS – CENTRADO PERFECTO ===== */
+.fav-btn{
+  position:absolute;
+  top:10px;
+  right:10px;
+  width:36px;
+  height:36px;
+  border-radius:50%;
+  border:none;
+  background:#fff;
+
+  display:flex;                 /* 👈 CLAVE */
+  align-items:center;           /* 👈 CLAVE */
+  justify-content:center;       /* 👈 CLAVE */
+
+  font-size:18px;               /* tamaño real del corazón */
+  line-height:1;                /* 👈 evita corrimientos */
+  padding:0;
+
+  cursor:pointer;
+  z-index:30;
+  box-shadow:0 2px 6px rgba(0,0,0,.25);
+}
+
+.fav-btn.activo{
+  background:#e63946;
+  color:#fff;
+}
+
+/* ===== CONTADOR FAVORITOS ===== */
+#contador-favoritos{
+  position:sticky;
+  top:0;
+  z-index:900;
+  background:#fff;
+  padding:10px 15px;
+  font-weight:bold;
+  color:#e63946;
+  box-shadow:0 2px 6px rgba(0,0,0,.1);
+}
+
+/* ===== MENU MEJOR DISTRIBUIDO ===== */
+.menu{
+  padding:12px 15px;
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+
+/* grupo de categorías */
+.menu-grupo{
+  display:grid;
+  gap:12px;
+}
+
+/* acciones (destacados, ofertas, favoritos) */
+.menu-acciones{
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+
+@media(min-width:900px){
+  .menu{
+    flex-direction:row;
+    align-items:flex-start;
+  }
+
+  .menu-grupo{
+    flex:3;
+    grid-template-columns:repeat(3, 1fr);
+  }
+
+  .menu-acciones{
+    flex:1;
+    flex-direction:column;
+  }
+}
+
+/* ===== MENU ACORDEON PROPIO ===== */
+.menu-item{
+  background:#fff;
+  border-radius:14px;
+  box-shadow:0 2px 6px rgba(0,0,0,.08);
+  overflow:hidden;
+}
+
+.menu-title{
+  width:100%;
+  padding:12px 14px;
+  background:none;
+  border:none;
+  font-weight:600;
+  color:var(--principal);
+  text-align:left;
+  cursor:pointer;
+}
+
+.menu-content{
+  display:none;
+  padding:10px 14px;
+}
+
+.menu-content button{
+  margin-top:6px;
+  background:#f6f2ee;
+  color:var(--texto);
+  border:1px solid rgba(0,0,0,.08);
+  width:100%;
+}
+
+.menu-item.activo .menu-content{
+  display:block;
+}
+
+/* ===== FORZAR MENU IGUAL EN PC Y MOBILE (OVERRIDE FINAL) ===== */
+.menu{
+  display:flex !important;
+  flex-direction:column !important;
+  gap:16px !important;
+}
+
+.menu-item{
+  width:100% !important;
+}
+
+.menu-acciones{
+  display:flex !important;
+  flex-direction:column !important;
+  gap:10px !important;
+}
+
+/* ===== FOOTER NEGRO TOTAL ===== */
+.footer{
+  background:#000;            /* negro absoluto */
+  color:#f1f1f1;
+  padding:28px 16px;
+  margin-top:40px;
+}
+
+.footer-contenido{
+  max-width:1200px;
+  margin:auto;
+  text-align:center;
+}
+
+.footer-titulo{
+  font-weight:bold;
+  color:#f5c542;
+  margin-bottom:14px;
+  letter-spacing:.5px;
+}
+
+.footer-pagos{
+  display:flex;
+  justify-content:center;
+  gap:16px;
+  flex-wrap:wrap;
+  font-size:14px;
+  margin-bottom:16px;
+}
+
+.footer-pagos span{
+  background:transparent;     /* 👈 SIN cajas */
+  border:none;
+  padding:0;
+  color:#f1f1f1;
+}
+
+.footer-copy{
+  font-size:12px;
+  color:#aaa;
+}
+
+
+/*---------------------------------------------*/
+
+main{
+  flex:1; /* 👈 empuja el footer hacia abajo */
+}
+
+/*---------------------------------------------*/
+.badge.oferta{
+  background:#e63946;
+  color:#fff;
+  font-weight:bold;
+}
+
+/* ===== SLIDER PROMOS CONTINUO — CARTEL LARGO ===== */
+.promo-slider{
+  overflow:hidden;
+  padding:20px 0;
+  background:#faf7f4;
+}
+
+.promo-track{
+  display:flex;
+  gap:20px;
+  width:max-content;
+  animation: promoLoop 45s linear infinite;
+  will-change: transform;
+}
+
+/* CARTEL LARGO */
+.promo-card{
+  width:50vw;              /* 👈 mitad de pantalla */
+  max-width:600px;         /* no exagera en pantallas grandes */
+  min-width:320px;         /* cuida mobile */
+  padding:26px 22px;
+  border-radius:22px;
+  font-weight:600;
+  text-align:center;
+  font-size:17px;
+  color:#2f2a28;           /* negro suave */
+  box-shadow:0 8px 18px rgba(0,0,0,.15);
+  flex-shrink:0;
+  letter-spacing:.4px;
+}
+
+/* 🌸 ROSADO CLARO */
+.promo-card.envio{
+  background:linear-gradient(135deg,#e8dccf,#dccec0);
+}
+
+/* 🪵 MADERA SUAVE */
+.promo-card.descuento{
+  background:linear-gradient(135deg,#c2a889,#b08a60);
+}
+
+/* 🪵 MADERA SUAVE */
+.promo-card.evento{
+  background:linear-gradient(135deg,#d3d0cd,#b08a60);
+}
+
+
+/* LOOP INFINITO REAL */
+@keyframes promoLoop{
+  0%{
+    transform:translateX(0);
+  }
+  100%{
+    transform:translateX(-50%);
+  }
+}
+
+/* pausa al tocar */
+.promo-slider:hover .promo-track{
+  animation-play-state: paused;
+}
+
+/* ===== BOTÓN MENU ===== */
+.btn-menu{
+  margin:16px;
+  padding:12px 18px;
+  border-radius:999px;
+  border:none;
+  background:linear-gradient(135deg,#b46cab,#4a4a4a);
+  color:#2f2a28;
+  font-size:16px;
+  font-weight:600;
+  cursor:pointer;
+  box-shadow:0 4px 10px rgba(0,0,0,.15);
+}
+
+/* menu visible */
+.menu.abierto{
+  transform:translateX(0);
+}
+
+/* tarjetas */
+.menu-item{
+  margin-bottom:14px;
+  border-radius:18px;
+  overflow:hidden;
+  box-shadow:0 6px 14px rgba(0,0,0,.12);
+}
+
+.menu-title{
+  width:100%;
+  padding:14px 16px;
+  background:linear-gradient(135deg,#f6c1cc,#f9d6dd);
+  border:none;
+ font-size:1.05rem;   /* crece con todo */
+  font-weight:600;
+  text-align:left;
+  color:#2f2a28;
+}
+
+.menu-content{
+  padding:12px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+
+.menu-content button{
+  background:#f6f2ee;
+  border:1px solid rgba(0,0,0,.08);
+  border-radius:999px;
+  padding:10px 14px;
+  font-size:14px;
+}
+
+/* acciones */
+.menu-acciones{
+  margin-top:20px;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+/* visible */
+.menu.menu-abierto{
+  transform:translateX(0);
+}
+
+/* ===== MENU LATERAL LIMPIO Y ESTABLE ===== */
+.menu{
+  position:fixed;
+  top:0;
+  left:0;
+  height:100vh;
+  width:85%;
+  max-width:320px;
+  background:#fff;
+  padding:20px 16px;
+  box-shadow:6px 0 20px rgba(0,0,0,.25);
+  transform:translateX(-100%);
+  transition:transform .35s ease;
+  z-index:2000;
+  overflow-y:auto;
+
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+
+.menu.menu-abierto{
+  transform:translateX(0);
+}
+
+/* TARJETAS */
+.menu-item{
+  background:#fff;
+  border-radius:16px;
+  box-shadow:0 4px 10px rgba(0,0,0,.12);
+  overflow:hidden;
+}
+
+/* TITULO */
+.menu-title{
+  width:100%;
+  padding:14px 16px;
+  background:linear-gradient(135deg,#f6c1cc,#f9d6dd);
+  border:none;
+  font-size:16px;
+  font-weight:600;
+  color:#2f2a28;
+  text-align:left;
+}
+
+/* SUBGRUPOS — CLARO Y SIN CORTES */
+.menu-content{
+  display:none;
+  padding:12px;
+}
+
+.menu-item.activo .menu-content{
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+
+.menu-content button{
+  width:100%;
+  padding:12px 16px;
+  border-radius:999px;
+  background:#f6f2ee;
+  border:1px solid rgba(0,0,0,.08);
+  font-size:15px;
+  white-space:nowrap;   /* 👈 CLAVE: no corta palabras */
+  text-align:center;
+}
+
+/* ===== BOTONES DESTACADOS — ESTILO LIMPIO ===== */
+.menu-acciones{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-top:10px;
+}
+
+.menu-acciones button{
+  width:100%;
+  padding:14px 18px;
+  border-radius:14px;
+  font-size:15px;
+  font-weight:600;
+  color:#2f2a28;
+  background:#faf7f4;
+  border:1px solid rgba(0,0,0,.12);
+  box-shadow:0 4px 10px rgba(0,0,0,.08);
+  transition:all .25s ease;
+}
+
+/* ===== BOTÓN CATEGORÍAS ===== */
+.btn-menu{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+
+  margin:14px;
+  padding:12px 18px;
+
+  border-radius:999px;
+  border:1px solid rgba(0,0,0,.15);
+
+  background:linear-gradient(135deg,#f1c3ef,#e8dccf);
+  color:#2f2a28;
+
+  font-size:15px;
+  font-weight:600;
+  letter-spacing:.3px;
+
+  cursor:pointer;
+  box-shadow:0 4px 10px rgba(0,0,0,.12);
+  transition:all .25s ease;
+}
+
+/* hover suave */
+.btn-menu:hover{
+  transform:translateY(-1px);
+  box-shadow:0 6px 14px rgba(0,0,0,.18);
+}
+
+
+.btn-menu{
+  position:sticky;
+  top:10px;
+  z-index:1200;
+}
+
+
+/* ===== BOTONES ACCIONES — ANCHO COMPLETO ===== */
+.menu-acciones{
+  width:100%;
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-top:16px;
+}
+
+.menu-acciones button{
+  width:100%;              /* 👈 ocupa todo el menú */
+  padding:14px 16px;
+  border-radius:14px;
+  font-size:15px;
+  font-weight:600;
+  text-align:center;
+
+  color:#2f2a28;
+  background:#faf7f4;
+  border:1px solid rgba(0,0,0,.12);
+  box-shadow:0 4px 10px rgba(0,0,0,.08);
+
+  transition:all .25s ease;
+}
+
+/* hover suave */
+.menu-acciones button:hover{
+  transform:translateY(-1px);
+  box-shadow:0 6px 14px rgba(0,0,0,.12);
+}
+
+/* ===== OCULTAR ACCIONES DEL MENU ===== */
+.menu-acciones{
+  display:none;
+}
+
+/* ===== BOTÓN CERRAR MENU ===== */
+.menu-cerrar{
+  width:100%;
+  padding:12px;
+  margin-bottom:12px;
+
+  background:#f6f2ee;
+  color:#3A2E2A;
+
+  border:none;
+  border-radius:10px;
+  font-size:14px;
+  font-weight:600;
+  cursor:pointer;
+
+  box-shadow:0 2px 6px rgba(0,0,0,.1);
+}
+
+/* ===== FOOTER DEL MENU — AJUSTADO AL PANEL ===== */
+.menu-footer{
+  margin-top:auto;               /* lo empuja abajo */
+  padding:12px 0 4px;            /* menos aire */
+  width:100%;
+
+  border-top:1px solid rgba(0,0,0,.08);
+
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:6px;
+
+  text-align:center;
+}
+
+.menu-footer img{
+  width:70px;                    /* 👈 más acorde al menú */
+  height:auto;
+  opacity:.85;
+}
+
+.menu-footer span{
+  font-size:11px;                /* más sutil */
+  color:#777;
+  letter-spacing:.3px;
+}
+
+/* ===== MENU LATERAL — BLANCO ROTO ===== */
+.menu{
+  background:#faf7f4;        /* 👈 blanco roto */
+  color:#3A2E2A;             /* texto marrón suave */
+}
+
+/* tarjetas de categoría */
+.menu-item{
+  background:transparent;
+  box-shadow:none;
+  border-bottom:1px solid rgba(0,0,0,.08);
+  border-radius:0;
+}
+
+/* títulos de categorías */
+.menu-title{
+  background:transparent;
+  color:#3A2E2A;
+  font-size:16px;
+  font-weight:600;
+  padding:16px 8px;
+  letter-spacing:.4px;
+}
+
+/* submenú */
+.menu-content{
+  background:transparent;
+  padding:8px 0 14px;
+}
+
+/* botones de subcategorías */
+.menu-content button{
+  background:#ffffff;
+  color:#3A2E2A;
+  border:1px solid rgba(0,0,0,.12);
+  border-radius:10px;
+  padding:12px 14px;
+  font-size:15px;
+  font-weight:500;
+  margin-bottom:8px;
+  transition:all .2s ease;
+}
+
+/* hover suave */
+.menu-content button:hover{
+  background:#f6f2ee;
+  transform:translateX(2px);
+}
+
+/* footer del menú */
+.menu-footer{
+  border-top:1px solid rgba(0,0,0,.08);
+}
+
+.menu-footer span{
+  color:#888;
+}
+
+/* ===== INFO CATALOGO ===== */
+.catalogo-info{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+
+  padding:8px 14px;
+  font-size:12px;
+  font-weight:500;
+
+  background:#f6f2ee;        /* blanco roto */
+  color:#3A2E2A;
+
+  border-bottom:1px solid rgba(0,0,0,.08);
+}
+
+.catalogo-info span{
+  opacity:.85;
+}
+
+/* Ocultar botón categorías cuando el carrito está abierto */
+#carrito.abierto ~ .btn-menu,
+#carrito.abierto + .btn-menu{
+  display:none;
+}
+
+/* ===== BOTÓN FLOTANTE WHATSAPP (GRANDE + LOGO) ===== */
+.whatsapp-float{
+  position:fixed;
+  bottom:100px;              /* 👈 no choca con el carrito */
+  right:18px;
+
+  width:68px;                /* 👈 más grande */
+  height:68px;
+
+  border-radius:50%;
+  background:#25D366;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  box-shadow:0 8px 18px rgba(0,0,0,.35);
+  z-index:900;               /* menor que carrito */
+  transition:transform .2s ease, box-shadow .2s ease;
+}
+
+.whatsapp-float img{
+  width:36px;                /* tamaño del logo */
+  height:36px;
+}
+
+.whatsapp-float:hover{
+  transform:scale(1.08);
+  box-shadow:0 10px 22px rgba(0,0,0,.45);
+}
+
+/* ===============================
+   📱 PANTALLAS MUY CHICAS
+   SIN MENU DESPLEGABLE
+================================ */
+
+@media (max-width:360px){
+
+  /* ocultar títulos clickeables */
+  .menu-title{
+    pointer-events:none;
+    font-weight:bold;
+    padding-bottom:6px;
+  }
+
+  /* mostrar siempre subgrupos */
+  .menu-content{
+    display:flex !important;
+    flex-direction:column;
+    gap:6px;
+  }
+
+  /* quitar acordeón visual */
+  .menu-item{
+    border-bottom:1px solid rgba(0,0,0,.08);
+  }
+}
+
+
+/* =================================
+   ✅ MENU SIMPLE – TODO DESPLEGADO
+================================= */
+
+/* categoría como título */
+.menu-title{
+  pointer-events:none;          /* 👈 ya no es botón */
+  background:transparent;
+  color:var(--principal);
+  font-size:16px;
+  font-weight:700;
+  padding:14px 8px 6px;
+  letter-spacing:.4px;
+}
+
+/* subgrupos siempre visibles */
+.menu-content{
+  display:flex !important;
+  flex-direction:column;
+  gap:8px;
+  padding:0 0 14px 0;
+}
+
+/* botones simples */
+.menu-content button{
+  background:#ffffff;
+  color:var(--texto);
+  border:1px solid rgba(0,0,0,.12);
+  border-radius:12px;
+  padding:12px;
+  font-size:15px;
+  font-weight:500;
+  text-align:center;
+}
+
+/* separación visual entre categorías */
+.menu-item{
+  padding-bottom:10px;
+  margin-bottom:12px;
+  border-bottom:1px solid rgba(0,0,0,.08);
+}
+
+/* quitar estilos de acordeón */
+.menu-item.activo .menu-content{
+  display:flex;
+}
+
+/* =================================
+   🛠️ FIX ALTURA MENU (CRÍTICO)
+================================= */
+
+/* el menu SIEMPRE puede scrollear */
+.menu{
+  height:100vh;
+  max-height:100vh;
+  overflow-y:auto;          /* 👈 CLAVE */
+  overflow-x:hidden;
+}
+
+/* evitar que el footer comprima el menú */
+.menu-footer{
+  margin-top:20px;          /* ❌ NO auto */
+}
+
+/* asegurar que los items ocupen su alto real */
+.menu-item{
+  flex-shrink:0;
+}
+
+/* asegurar que los subgrupos no colapsen */
+.menu-content{
+  max-height:none;
+  overflow:visible;
+}
+
+/* =================================
+   EVENTO ESPECIAL
+================================= */
+
+.evento-especial{
+  padding:20px 15px 0;
+}
+
+.evento-especial h3{
+  color:#e63946;
+  margin:0 0 4px;
+}
+
+.evento-especial p{
+  margin:0 0 12px;
+  font-size:14px;
+  color:#555;
+}
+
+.evento-grid{
+  margin-bottom:20px;
+}
+
+
+/* ===== SLIDER EVENTO ===== */
+.evento-slider{
+  padding:16px;
+}
+
+.evento-slider h3{
+  margin:0 0 10px;
+  color:#e63946;
+}
+
+.evento-track{
+  display:flex;
+  gap:12px;
+  overflow-x:auto;
+  scroll-snap-type:x mandatory;
+}
+
+.evento-track::-webkit-scrollbar{
+  display:none;
+}
+
+/* ===== SLIDER EVENTO – IMAGEN CORRECTA ===== */
+
+.evento-item{
+  width:280px;
+  height:360px;
+  flex-shrink:0;
+
+  background:#fff;
+  border-radius:18px;
+  box-shadow:0 10px 22px rgba(0,0,0,.22);
+  overflow:hidden;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+/* imagen del slider */
+.evento-item img{
+  width:100%;
+  height:auto;          /* 👈 NO estira */
+  max-height:100%;      /* 👈 NO se sale */
+  object-fit:contain;   /* 👈 NO recorta */
+  background:#fff;
+}
+
+/* =================================
+   📱 AJUSTES MOBILE – EVENTO
+================================= */
+
+@media (max-width: 600px){
+
+  /* slider */
+  .evento-track{
+    gap:14px;
+  }
+
+  /* tarjeta */
+  .evento-item{
+    width:240px;          /* más chica para celular */
+    height:320px;
+    border-radius:16px;
+  }
+
+  /* imagen */
+  .evento-item img{
+    max-width:100%;
+    max-height:200px;
+    object-fit:contain;   /* no corta */
+  }
+
+  /* texto */
+  .evento-info h4{
+    font-size:15px;
+  }
+
+  .evento-info p{
+    font-size:13px;
+  }
+
+  /* botón */
+  .btn-evento{
+    width:100%;
+    padding:12px;
+    font-size:14px;
+  }
+}
+
+
+.codigo-descuento{
+  background:#f6f2ee;
+  padding:16px;
+  margin:14px;
+  border-radius:14px;
+  text-align:center;
+}
+
+.codigo-descuento input{
+  width:100%;
+  padding:12px;
+  border-radius:10px;
+  border:1px solid #ccc;
+  margin-bottom:10px;
+  font-size:15px;
+}
+
+.codigo-descuento button{
+  width:100%;
+  padding:12px;
+  border-radius:999px;
+  border:none;
+  background:#e63946;
+  color:#fff;
+  font-weight:600;
+  font-size:15px;
+  cursor:pointer;
+}
+
+#mensaje-codigo{
+  display:block;
+  margin-top:8px;
+  font-size:13px;
+}
+
+#texto-cupon{
+  margin:0 0 10px;
+  font-weight:600;
+  color:#e63946;
+}
+
+.buscador{
+  padding:12px 15px;
+}
+
+.buscador input{
+  width:100%;
+  padding:14px 18px;        /* un poco más cómodo */
+  border-radius:999px;
+  border:1px solid rgba(0,0,0,.2);
+
+  font-size:17px;           /* 👈 letra más grande */
+}
+
+/* =================================
+   FIX DEFINITIVO – TEXTO MENU
+   ESCALA CON EL RESTO DEL SITIO
+================================= */
+
+/* título de categorías */
+.menu-title{
+  font-size:1.1rem;        /* más grande y proporcional */
+  font-weight:600;
+}
+
+.btn-menu{
+  font-size:1rem;          /* igual al texto general */
+  height:80px;
+}
+
+/* botones de subcategorías */
+.menu-content button{
+  font-size:1rem;          /* igual al texto general */
+}
+
+/* botón cerrar menú */
+.menu-cerrar{
+  font-size:1rem;
+}
+
+/* footer del menú */
+.menu-footer span{
+  font-size:0.85rem;
+}
+
+.promo-card{
+  font-size:1rem;
+}
+
+.menu-acciones button{
+  font-size:1.05rem;     /* tamaño base del menú */
+  font-weight:600;
+}
+
+/* botón destacados un poco más protagonista */
+.menu-acciones button:first-child{
+  font-size:1.15rem;
+}
+
+/* ofertas */
+.menu-acciones button:nth-child(2){
+  font-size:1.1rem;
+}
+
+/* favoritos */
+.menu-acciones button.simple{
+  font-size:1.05rem;
+}
+
