@@ -1328,6 +1328,20 @@ main{
   display: none;
 }
 
+.evento-track {
+  display: flex;
+  gap: 16px;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.evento-item {
+  min-width: 250px; /* o el ancho real */
+  flex-shrink: 0;
+}
+
+
+
 .slider-btn {
   display: none;
   position: absolute;
@@ -1362,3 +1376,38 @@ main{
   }
 }
 
+.btn-wsp{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px 12px;
+
+  background: linear-gradient(135deg, #25d366, #1ebd59);
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+
+  border: none;
+  border-radius: 14px;
+
+  cursor: pointer;
+  transition: transform .2s ease, box-shadow .2s ease, opacity .2s;
+}
+
+.btn-wsp:hover{
+  transform: translateY(-1px);
+  box-shadow: 0 6px 14px rgba(0,0,0,.18);
+}
+
+.btn-wsp:active{
+  transform: scale(.97);
+  opacity: .9;
+}
+
+.btn-wsp .icon{
+  font-size: 16px;
+}
