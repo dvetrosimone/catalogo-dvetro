@@ -376,6 +376,7 @@ fetch("productos.json")
     ocultarFlechasSiUnaImagen();
     marcarProductosAgotados();
     restaurarFavoritos();
+     initSliderEvento();
   });
 
 
@@ -455,7 +456,6 @@ function crearProductoEvento(p){
         </ul>
       </details>
       <button class="btn-wsp"
- <button class="btn-wsp"
   onclick="compartirWhatsAppTexto(
     '${p.nombre}',
     '${p.codigo}',
@@ -664,22 +664,29 @@ document.getElementById("input-buscar")?.addEventListener("input", e => {
   });
 });
 
-const slider = document.getElementById("slider-evento");
-const btnPrev = document.querySelector(".slider-btn.prev");
-const btnNext = document.querySelector(".slider-btn.next");
+function initSliderEvento(){
+  const slider = document.getElementById("slider-evento");
+  const btnPrev = document.querySelector(".slider-btn.prev");
+  const btnNext = document.querySelector(".slider-btn.next");
 
-const scrollAmount = 250; // px por click
+  if(!slider || !btnPrev || !btnNext) return;
 
-  btnNext.addEventListener("click", () => {
-    slider.scrollBy({ left: scrollAmount, behavior: "smooth" });
-  });
+  function paso(){
+    const item = slider.querySelector(".evento-item");
+    if(!item) return 0;
 
-  btnPrev.addEventListener("click", () => {
-    slider.scrollBy({ left: -scrollAmount, behavior: "smooth" });
-  });
+    const gap = parseInt(getComputedStyle(slider).gap) || 0;
+    return item.offsetWidth + gap;
+  }
 
+  btnNext.onclick = () => {
+    slider.scrollBy({ left: paso(), behavior: "smooth" });
+  };
 
-
+  btnPrev.onclick = () => {
+    slider.scrollBy({ left: -paso(), behavior: "smooth" });
+  };
+}
 
 /* === PERSISTENCIA === */
 window.onload = () => {
