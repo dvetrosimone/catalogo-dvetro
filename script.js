@@ -601,6 +601,21 @@ document.getElementById("input-buscar")?.addEventListener("input", e => {
   });
 });
 
+const slider = document.getElementById("slider-evento");
+const btnPrev = document.querySelector(".slider-btn.prev");
+const btnNext = document.querySelector(".slider-btn.next");
+
+const scrollAmount = 250; // px por click
+
+  btnNext.addEventListener("click", () => {
+    slider.scrollBy({ left: scrollAmount, behavior: "smooth" });
+  });
+
+  btnPrev.addEventListener("click", () => {
+    slider.scrollBy({ left: -scrollAmount, behavior: "smooth" });
+  });
+
+
 
 
 /* === PERSISTENCIA === */
