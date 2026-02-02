@@ -1,14 +1,23 @@
 //alert("script cargado");
 
 function abrirMenuLateral(){
-  document.querySelector('.menu').classList.toggle('menu-abierto');
+  const menu = document.querySelector('.menu');
+  const abriendo = !menu.classList.contains('menu-abierto');
+
+  menu.classList.toggle('menu-abierto');
+
+  if(abriendo){
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  }
 }
 
 /* === PRODUCTOS AGOTADOS === */
 /*ahi dejo comentado como seleccionar por su codigo el producto agotado*/
 const codigosAgotados = [
   /*'NF7664X24',
-  'NF7664X24',
   'NF7664X24'*/
 ];
 /* === FIN PRODUCTOS AGOTADOS === */
@@ -373,7 +382,6 @@ fetch("productos.json")
 function crearProducto(p){
   const cont = document.getElementById("productos");
   const tags = (p.tags || []).join(" ");
-
   cont.insertAdjacentHTML("beforeend", `
     <div class="producto"
       data-categoria="${p.categoria}"
@@ -394,13 +402,22 @@ function crearProducto(p){
       ${p.tipoVenta === "pack"
         ? crearVentaPack(p)
         : crearVentaUnidad(p)}
-
       <details class="detalles">
         <summary>📐 Ver detalles</summary>
         <ul>
           ${p.detalles.map(d => `<li>${d}</li>`).join("")}
         </ul>
       </details>
+      <button class="btn-wsp"
+  onclick="compartirWhatsAppTexto(
+    '${p.nombre}',
+    '${p.codigo}',
+    ${p.precioBase ?? 'null'},
+    ${p.precioUnidad ?? 'null'},
+    ${p.precio ?? 'null'}
+  )">
+  📲 Compartir datos
+</button>
     </div>
   `);
 }
@@ -437,10 +454,47 @@ function crearProductoEvento(p){
           ${p.detalles.map(d => `<li>${d}</li>`).join("")}
         </ul>
       </details>
+      <button class="btn-wsp"
+ <button class="btn-wsp"
+  onclick="compartirWhatsAppTexto(
+    '${p.nombre}',
+    '${p.codigo}',
+    ${p.precioBase ?? 'null'},
+    ${p.precioUnidad ?? 'null'},
+    ${p.precio ?? 'null'}
+  )">
+  📲 Compartir datos
+</button>
     </div>
   `);
 }
 
+function compartirWhatsAppTexto(nombre, codigo, precioBase, precioUnidad, precioDirecto){
+
+  const precioFinal =
+    precioBase ??
+    precioUnidad ??
+    precioDirecto ??
+    null;
+
+  const lineaPrecio = precioFinal
+    ? `💲 Precio: $${precioFinal}\n\n`
+    : "";
+
+  const texto =
+`✨ ${nombre}
+🆔 Código: ${codigo}
+${lineaPrecio}🎁 Si entrás a la página de D’Vetro y antes de comprar
+ingresás un código especial, obtenés descuentos exclusivos.
+
+Te comparto mi cupón de descuento [ DVETRO ]
+Pegalo en el carrito y listo 💝
+
+🌐 https://dvetrosimone.github.io/catalogo-dvetro/`;
+
+  const url = `https://wa.me/?text=${encodeURIComponent(texto)}`;
+  window.open(url, "_blank");
+}
 
 
 function crearGaleria(imgs){
@@ -509,25 +563,34 @@ function crearSliderEvento(p){
 
 function irAProducto(codigo){
 
-  // 1️⃣ Mostrar TODOS los productos (reset filtros)
+  // 1️⃣ Cerrar menú si está abierto
+  document.querySelector('.menu')?.classList.remove('menu-abierto');
+
+  // 2️⃣ Mostrar todos los productos
   document.querySelectorAll('.producto').forEach(p => {
     p.style.display = 'block';
   });
 
-  // 2️⃣ Buscar el producto
+  // 3️⃣ Buscar el producto
   const prod = [...document.querySelectorAll('.producto')]
     .find(p => p.querySelector('.codigo')?.textContent.includes(codigo));
 
-  // 3️⃣ Scrollear
-  if(prod){
-    setTimeout(() => {
-      prod.scrollIntoView({
-        behavior: "smooth",
-        block: "start"
-      });
-    }, 100);
-  }
+  if(!prod) return;
+
+  // 4️⃣ Scroll calculado (NO scrollIntoView)
+  setTimeout(() => {
+    const y =
+      prod.getBoundingClientRect().top +
+      window.pageYOffset -
+      90; // 👈 margen por header fijo
+
+    window.scrollTo({
+      top: y,
+      behavior: "smooth"
+    });
+  }, 200);
 }
+
 
 
 let descuentoActivo = localStorage.getItem("descuentoCodigo") === "true";
