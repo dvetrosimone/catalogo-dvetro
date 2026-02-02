@@ -3723,5 +3723,410 @@
     "tags": [
       "evento"
     ]
+  },
+  {
+    "orden": 164,
+    "codigo": "SAMLOVE1",
+    "nombre": "Sobre Love dia de los enamorados",
+    "nombreCorto": "Sobre love",
+    "categoria": "regalos",
+    "subcategoria": "otros",
+    "tipoVenta": "unidad",
+    "precioUnidad": 890,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://res.cloudinary.com/difzr74xr/image/upload/v1769991899/sobreLove_crlqv9.png",
+      "https://res.cloudinary.com/difzr74xr/image/upload/v1769991787/sobreLove2_t2dz1k.png"
+    ],
+    "detalles": [
+      "Contiene:",
+      " 2 copas o tazas,",
+      " 2 bombones Ferrero Rocher, ",
+      "decoraci\u00F3n enamorados y tarjeta personalizada ."
+    ],
+    "tags": [
+      "evento"
+    ]
+  },
+  {
+    "orden": 165,
+    "codigo": "CAJROMA1",
+    "nombre": "Caja romance dia de los enamorados",
+    "nombreCorto": "Caja romance",
+    "categoria": "regalos",
+    "subcategoria": "otros",
+    "tipoVenta": "unidad",
+    "precioUnidad": 1090,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://res.cloudinary.com/difzr74xr/image/upload/v1769991724/cajaRomance_b8vwot.png",
+      "https://res.cloudinary.com/difzr74xr/image/upload/v1769991756/cajaRomance2_z0qqp0.png"
+    ],
+    "detalles": [
+      "Caja Romance Contiene: ",
+      "2 copas o tazas ",
+      "1 vela arom\u00E1tica, ",
+      "2 Ferrero Rocher, ",
+      "2 kit kat, rosa y tarjeta personalizada. "
+    ],
+    "tags": [
+      "evento"
+    ]
+  },
+  {
+    "orden": 166,
+    "codigo": "M5680",
+    "nombre": "Taza Irish Coffe Vidrio 250 ml Crisa",
+    "nombreCorto": "Taza Irish Coffe Vidrio 250 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 120,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_47542.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_52472.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro: 7 cm",
+      "Altura: 15 cm",
+      "Material: vidrio",
+      "Capacidad: 250 ml"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 167,
+    "codigo": "M421005",
+    "nombre": "Taza irish coffee 285 ml de Vidrio c\u00F3nico Helsinki",
+    "nombreCorto": "Taza irish coffee 285 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 160,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_46249.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63607.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Capacidad: 290 ml",
+      "Diametro de boca: 7,5 cm",
+      "Diametro de base: 6,3 cm",
+      "Altura: 15,7"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 168,
+    "codigo": "NF5909X24",
+    "nombre": "Taza Mug Vidrio 300 ml Aspen Nadir",
+    "nombreCorto": "Taza Mug Vidrio 300 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 86,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54683.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59050.png"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro de boca: 7.9 cm",
+      "Di\u00E1metro de base: 6 cm",
+      "Altura: 8.7 cm",
+      "Peso: 270 g",
+      "Capacidad: 300 ml",
+      "Cajas de 24 unidades.",
+      "Tama\u00F1o: 392 x 295 x 198 mm.",
+      "Peso: 7,1 kg."
+    ],
+    "tags": []
+  },
+  {
+    "orden": 169,
+    "codigo": "NF0200X12",
+    "nombre": "Taza de vidrio Irish Coffee 240 ml Nevada Nadir Figueiredo",
+    "nombreCorto": "Taza de vidrio Irish Coffee 240 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 169,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_48950.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_59059.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro de boca: 7.6 cm",
+      "Di\u00E1metro de base: 6.5 cm",
+      "Altura: 14.9 cm",
+      "Capacidad: 240 ml",
+      "Peso: 345 g"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 170,
+    "codigo": "MVP8008H-T2",
+    "nombre": "Taza doble pared 80ml Borosilicato Varenna Set x2",
+    "nombreCorto": "Taza doble pared 80ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "pack",
+    "precioUnidad": null,
+    "precioBase": 1200,
+    "packs": [
+      2
+    ],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63047.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63048.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63606.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro boca: 6 cm",
+      "Di\u00E1metro base: 4 cm",
+      "Altura: 6 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 171,
+    "codigo": "ME71201-75122",
+    "nombre": "Taza de T\u00E9 con plato melamina 220 ml Blanco",
+    "nombreCorto": "Taza de T\u00E9 con plato melamina 220 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 339,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_61132.jpg"
+    ],
+    "detalles": [
+      "Dimensiones de la taza:",
+      "Di\u00E1metro boca: 8 cm",
+      "Di\u00E1metro base: 7 cm",
+      "Altura: 6.5 cm",
+      "Dimensiones del plato:",
+      "Di\u00E1metro: 13.7 cm",
+      "Altura: 1.5 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 172,
+    "codigo": "MV212543H-T2",
+    "nombre": "Taza Mug de Vidrio con Asa 430ml Pared Simple Set x2 Varenna",
+    "nombreCorto": "Taza Mug de Vidrio con Asa 430ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "pack",
+    "precioUnidad": null,
+    "precioBase": 2,
+    "packs": [
+      1320
+    ],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63039.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63040.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63605.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro boca: 7.8 cm",
+      "Altura: 10.5 cm",
+      "Material: Vidrio pared simple"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 173,
+    "codigo": "M199345",
+    "nombre": "Taza para Caf\u00E9 C/ Platillo 60 ml de Porcelana",
+    "nombreCorto": "Taza para Caf\u00E9 C/ Platillo 60 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 85,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58325.jpg"
+    ],
+    "detalles": [
+      "Dimensiones de la taza:",
+      "Altura:5.5 cm",
+      "Di\u00E1metro boca: 6.3 cm",
+      "Di\u00E1metro base: 3 cm",
+      "Capacidad: 60 ml",
+      "Dimensiones del Platillo:",
+      "Di\u00E1metro: 12.5 cm",
+      "Di\u00E1metro interno: 3.5 cm",
+      "Altura: 2 cm"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 174,
+    "codigo": "M199310",
+    "nombre": "Lechera 200 ml de Porcelana blanca",
+    "nombreCorto": "Lechera 200 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 159,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57233.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro boca: 6 cm",
+      "Di\u00E1metro de base: 8 cm",
+      "Altura: 8 cm",
+      "Material: Porcelana",
+      "Color: Blanco",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 175,
+    "codigo": "M276006",
+    "nombre": "Taza de cafe c/plato 90 ml porcelana blanca Selecta",
+    "nombreCorto": "Taza de cafe c/plato 90 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 159,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44821.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63713.jpg"
+    ],
+    "detalles": [
+      "Capacidad: 90 cc.",
+      "Dimensiones de taza:",
+      "Di\u00E1metro: 5.4 cm.",
+      "Altura: 5.7 cm.",
+      "Dimensiones del platillo.",
+      "Di\u00E1metro: 11 cm."
+    ],
+    "tags": []
+  },
+  {
+    "orden": 176,
+    "codigo": "M199419",
+    "nombre": "Cremera Salsera Lisa 21x9.5cm Porcelana Blanca",
+    "nombreCorto": "Cremera Salsera Lisa 21x9.5cm",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 159,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_65779.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Largo: 21 cm",
+      "Alto: 9.5",
+      "Ancho base: 5.5 cm",
+      "Material: Porcelana",
+      "Color: Blanco"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 177,
+    "codigo": "M2871017",
+    "nombre": "Taza Mug de Cer\u00E1mica 325 ml Azul Organic",
+    "nombreCorto": "Taza Mug de Cer\u00E1mica 325 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 179,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57757.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro: 9 cm",
+      "Altura: 8.5 cm",
+      "Capacidad: 325 ml",
+      "Material: Cer\u00E1mica",
+      "Marca: Organic"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 178,
+    "codigo": "M287923",
+    "nombre": "Taza mug de Cer\u00E1mica 325 ml Organic Gris",
+    "nombreCorto": "Taza mug de Cer\u00E1mica 325 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 169,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_58334.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63719.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro: 9 cm",
+      "Altura: 8.2 cm",
+      "Color: Girs",
+      "Capacidad: 325 ml",
+      "Material: Cer\u00E1mica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 179,
+    "codigo": "M276005",
+    "nombre": "Taza de t\u00E9 220 ml con platillo porcelana Selecta",
+    "nombreCorto": "Taza de t\u00E9 220 ml",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 189,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_44933.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63725.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Taza:",
+      "Altura: 6 cm",
+      "Di\u00E1metro boca: 8.5 cm",
+      "Di\u00E1metro base: 8.5 cm",
+      "Platillo:",
+      "Di\u00E1metro: 15.2 cm"
+    ],
+    "tags": []
   }
 ]
