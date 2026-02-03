@@ -1106,16 +1106,7 @@ main{
   color:#e63946;
 }
 
-.evento-track{
-  display:flex;
-  gap:12px;
-  overflow-x:auto;
-  scroll-snap-type:x mandatory;
-}
 
-.evento-track::-webkit-scrollbar{
-  display:none;
-}
 
 /* ===== SLIDER EVENTO – IMAGEN CORRECTA ===== */
 
@@ -1299,17 +1290,6 @@ main{
   position: relative;
 }
 
-.evento-track {
-  display: flex;
-  gap: 12px;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-}
-
-/* ocultar scrollbar */
-.evento-track::-webkit-scrollbar {
-  display: none;
-}
 
 .slider-wrapper {
   position: relative;
@@ -1410,4 +1390,29 @@ main{
 
 .btn-wsp .icon{
   font-size: 16px;
+}
+
+.evento-boton {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.btn-evento {
+  display: inline-block;
+  padding: 14px 28px;
+  color: #000;
+  background-color: #c5a6b1;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+
+.btn-evento:hover {
+  background-color: #c72f65;
+  transform: scale(1.35);
+}
+.evento-cta {
+  cursor: pointer;
 }
