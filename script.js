@@ -193,8 +193,8 @@ function enviar(){
 function cambiarFuente(tamaño){
   let valor = "18px";
 
-  if(tamaño === "pequeña") valor = "16px";
-  if(tamaño === "normal") valor = "18px";
+  if(tamaño === "pequeña") valor = "12px";
+  if(tamaño === "normal") valor = "14px";
   if(tamaño === "grande") valor = "24px";
 
   document.documentElement.style.fontSize = valor;
