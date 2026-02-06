@@ -3884,11 +3884,9 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "pack",
-    "precioUnidad": null,
-    "precioBase": 1200,
-    "packs": [
-      2
-    ],
+    "precioUnidad": 490,
+    "precioBase": null,
+    "packs": null,
     "imagenes": [
       "https://www.goldsky.com.uy/imgs/productos/productos1_63047.jpg",
       "https://www.goldsky.com.uy/imgs/productos/productos1_63048.jpg",
@@ -3935,9 +3933,9 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "pack",
-    "precioUnidad":440,
+    "precioUnidad":449,
     "precioBase": null,
-    "packs": [],
+    "packs": null,
     "imagenes": [
       "https://www.goldsky.com.uy/imgs/productos/productos1_63039.jpg",
       "https://www.goldsky.com.uy/imgs/productos/productos1_63040.jpg",
@@ -4128,4 +4126,5 @@
     "tags": []
   }
 ]
+
 
