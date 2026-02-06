@@ -3884,7 +3884,7 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "unidad",
-    "precioUnidad": 250,
+    "precioUnidad": 490,
     "precioBase": null,
     "packs": [],
     "imagenes": [
@@ -3933,7 +3933,7 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "unidad",
-    "precioUnidad": 250,
+    "precioUnidad": 449,
     "precioBase": null,
     "packs": [],
     "imagenes": [
@@ -4126,3 +4126,4 @@
     "tags": []
   }
 ]
+
