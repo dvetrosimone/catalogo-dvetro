@@ -3882,11 +3882,11 @@
     "nombre": "Taza doble pared 80ml Borosilicato Varenna Set x2",
     "nombreCorto": "Taza doble pared 80ml",
     "categoria": "cristaleria",
-    "subcategoria": "tazas",
-    "tipoVenta": "unidad",
-    "precioUnidad": 490,
+    "subcategoria": "unidad",
+    "tipoVenta": "pack",
+    "precioUnidad": 250,
     "precioBase": null,
-    "packs": null,
+    "packs": [],
     "imagenes": [
       "https://www.goldsky.com.uy/imgs/productos/productos1_63047.jpg",
       "https://www.goldsky.com.uy/imgs/productos/productos1_63048.jpg",
@@ -3933,9 +3933,9 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "unidad",
-    "precioUnidad":449,
+    "precioUnidad": 250,
     "precioBase": null,
-    "packs": null,
+    "packs": [],
     "imagenes": [
       "https://www.goldsky.com.uy/imgs/productos/productos1_63039.jpg",
       "https://www.goldsky.com.uy/imgs/productos/productos1_63040.jpg",
@@ -4126,6 +4126,3 @@
     "tags": []
   }
 ]
-
-
-
