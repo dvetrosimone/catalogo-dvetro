@@ -3883,7 +3883,7 @@
     "nombreCorto": "Taza doble pared 80ml",
     "categoria": "cristaleria",
     "subcategoria": "tazas",
-    "tipoVenta": "pack",
+    "tipoVenta": "unidad",
     "precioUnidad": 490,
     "precioBase": null,
     "packs": null,
@@ -3932,7 +3932,7 @@
     "nombreCorto": "Taza Mug de Vidrio con Asa 430ml",
     "categoria": "cristaleria",
     "subcategoria": "tazas",
-    "tipoVenta": "pack",
+    "tipoVenta": "unidad",
     "precioUnidad":449,
     "precioBase": null,
     "packs": null,
@@ -4126,5 +4126,6 @@
     "tags": []
   }
 ]
+
 
 
