@@ -3884,7 +3884,7 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "unidad",
-    "precioUnidad": 490,
+    "precioUnidad": 250,
     "precioBase": null,
     "packs": [],
     "imagenes": [
@@ -3933,7 +3933,7 @@
     "categoria": "cristaleria",
     "subcategoria": "tazas",
     "tipoVenta": "unidad",
-    "precioUnidad": 449,
+    "precioUnidad": 250,
     "precioBase": null,
     "packs": [],
     "imagenes": [
@@ -4124,6 +4124,456 @@
       "Di\u00E1metro: 15.2 cm"
     ],
     "tags": []
+  },
+  {
+    "orden": 180,
+    "codigo": "GOLDJM478",
+    "nombre": "Ramequ\u00EDn bowl coraz\u00F3n 170 ml Cer\u00E1mica Goldsky",
+    "nombreCorto": "Ramequ\u00EDn bowl coraz\u00F3n 170 ml",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 104,
+    "precioBase": null,
+    "packs": null,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54320.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_55939.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54322.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_55940.jpg"
+    ],
+    "detalles": [
+      "Ideal cuenco para chocolates, caramelos, pop, cereales, y \u00A1mucho m\u00E1s!",
+      "\u00A1Excelente para regalar!",
+      "Material de cer\u00E1mica de alta calidad, sin plomo y no t\u00F3xico, saludable y respetuoso con el medio ambiente, moderno y duradero.",
+      "Dimensiones:",
+      "Ancho m\u00E1ximo: 10.5 cm",
+      "Largo m\u00E1ximo: 10.5 cm",
+      "Altura: 5 cm",
+      "Peso: 150 g",
+      "Capacidad: 170 ml",
+      "Material: cer\u00E1mica"
+    ],
+    "tags": [
+      "destacado"
+    ]
+  },
+  {
+    "orden": 181,
+    "codigo": "IMP39971",
+    "nombre": "Bowl ramequin 170 ml Colores Surtidos Cer\u00E1mica",
+    "nombreCorto": "Bowl ramequin 170 mll",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 104,
+    "precioBase": null,
+    "packs": null,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66045.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66046.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_66047.jpg"
+    ],
+    "detalles": [
+      "Colores surtidos, al realizar la compra puede llegar cualquier color",
+      "\u00A1Excelente para regalar!",
+      "Dimensiones:",
+      "Di\u00E1metro: 8.7 cm",
+      "Altura: 5.5 cm",
+      "Capacidad: 170 ml",
+      "Material: cer\u00E1mica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 182,
+    "codigo": "GOLDJM492",
+    "nombre": "Ramequ\u00EDn Flor 7 reparticiones 12x2 cm Cer\u00E1mica Goldsky",
+    "nombreCorto": "Ramequ\u00EDn Flor 7 reparticiones 12x2 cm",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 167,
+    "precioBase": null,
+    "packs": null,
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54323.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_54324.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65236.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro centro: 4 cm",
+      "Largo m\u00E1ximo: 12 cm",
+      "Altura: 2 cm",
+      "Peso: 190 g",
+      "Material: cer\u00E1mica"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 183,
+    "codigo": "M2871186",
+    "nombre": "Ramequin 14 cm rayas cer\u00E1mica Selecta",
+    "nombreCorto": "Ramequin 14 cm",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 104,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_61923.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63816.jpg"
+    ],
+    "detalles": [
+      "Colores surtidos",
+      "Dimensiones:",
+      "Di\u00E1metro interno: 11 cm",
+      "Altura: 2.5 cm",
+      "Material: cer\u00E1mica",
+      "Marca: Selecta",
+      "Colores y dise\u00F1os surtidos. Al realizar la compra puede llegar cualquier color o dise\u00F1o."
+    ],
+    "tags": []
+  },
+  {
+    "orden": 184,
+    "codigo": "IMP40115",
+    "nombre": "Bowl 13.4 cm Ceramica Marr\u00F3n",
+    "nombreCorto": "Bowl 13.4 cm",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 116,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66136.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro: 13.4 cm",
+      "Altura: 6.4 cm",
+      "Capacidad:700 ml"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 185,
+    "codigo": "IMP40060",
+    "nombre": "Bowl 14 cm 600 ml Ceramica Azul",
+    "nombreCorto": "Bowl 14 cm 600 ml",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 167,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_66128.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro boca: 14 cm",
+      "Di\u00E1metro base: 14 cm",
+      "Altura: 5.5 cm",
+      "Capacidad: 600 ml"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 186,
+    "codigo": "M2871233",
+    "nombre": "Bowl 14 cm 500 ml Cer\u00E1mica Verde Sacramento",
+    "nombreCorto": "Bowl 14 cm 500 ml",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 241,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65013.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_65014.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro: 14 cm",
+      "Altura: 7 cm",
+      "Capacidad: 500 ml",
+      "Color: Verde",
+      "Material: Cer\u00E1mica",
+      "Marca: Selecta"
+    ],
+    "tags": []
+  },
+  {
+    "orden": 187,
+    "codigo": "M287921",
+    "nombre": "Bowl de Cer\u00E1mica 14 cm 300 ml Organic Gris",
+    "nombreCorto": "Bowl de Cer\u00E1mica 14 cm",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 209,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57001.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro: 14 cm",
+      "Altura: 5.5 cm",
+      "Capacidad: 300 ml",
+      "Color: Gris con borde marron",
+      "Material: Cer\u00E1mica",
+      "Marca: Organic"
+    ],
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 188,
+    "codigo": "M2871015",
+    "nombre": "Bowl de Cer\u00E1mica 14 cm 400ml Azul Organic",
+    "nombreCorto": "Bowl de Cer\u00E1mica 14 cm",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 209,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_57357.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro: 14 cm",
+      "Altura: 5.5 cm",
+      "Capacidad: 400",
+      "Color: Azul",
+      "Marca: Organic"
+    ],
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 189,
+    "codigo": "M608007",
+    "nombre": "Bowl 15 cm Cer\u00E1mica Malmo Beige Selecta",
+    "nombreCorto": "Bowl 15 cm Cer\u00E1mica Malmo Beige",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 230,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_61792.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro boca: 15 cm",
+      "Di\u00E1metro base: 12.5 cm",
+      "Altura: 7 cm",
+      "Capacidad: 500 ml",
+      "Material: Cer\u00E1mica",
+      "Marca: Selecta"
+    ],
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 190,
+    "codigo": "M276550",
+    "nombre": "Bowl 15 cm Modern Porcelana Selecta",
+    "nombreCorto": "Bowl 15 cm Modern Porcelana",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 230,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_63139.jpg"
+    ],
+    "detalles": [
+      "Dimensiones:",
+      "Di\u00E1metro: 15 cm",
+      "Di\u00E1metro base: 11 cm",
+      "Altura: 6 cm",
+      "Capacidad: 600 ml"
+    ],
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 191,
+    "codigo": "M2871199",
+    "nombre": "BOWL 15 CM CERAMICA GRIS PARIS 650ml SELECTA",
+    "nombreCorto": "BOWL 15 CM CERAMICA GRIS PARIS 650ml",
+    "categoria": "cocina",
+    "subcategoria": "bowls",
+    "tipoVenta": "unidad",
+    "precioUnidad": 241,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos3_64558.jpg"
+    ],
+    "detalles": [
+      "Excelente calidad.",
+      "Dimensiones:",
+      "Di\u00E1metro: 16.5 cm",
+      "Altura: 7 cm",
+      "Capacidad: 650ml",
+      "Color: Negro",
+      "Material: Cer\u00E1mica",
+      "Marca: Selecta"
+    ],
+    "tags": [
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 192,
+    "codigo": "M386074",
+    "nombre": "Tetera Cer\u00E1mica Tea for One 275 \u002B 400 ml Dise\u00F1o Flores Rosa Selecta",
+    "nombreCorto": "Tetera Cer\u00E1mica Tea for One 275 \u002B 400 ml Dise\u00F1o Flores Rosa",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 1250,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63274.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63275.jpg"
+    ],
+    "detalles": [
+      "Altura total: 14 cm",
+      "Dimensiones tetera:",
+      "Altura: 11.5 cm",
+      "Di\u00E1metro boca: 5.5 cm",
+      "Di\u00E1metro base: 6 cm",
+      "Capacidad: 400 ml",
+      "Dimensiones de la taza:",
+      "Altura: 5.5 cm",
+      "Di\u00E1metro boca: 10.5 cm",
+      "Di\u00E1metro base: 5 cm",
+      "Capacidad: 275 ml",
+      "Di\u00E1metro del plato: 15 cm",
+      "Altura del plato: 1.5 cm"
+    ],
+    "tags": [
+      "destacado",
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 193,
+    "codigo": "M386093",
+    "nombre": "Tetera Cer\u00E1mica Tea for One 275 \u002B 400 ml Dise\u00F1o flores verde agua Selecta",
+    "nombreCorto": "Tetera Cer\u00E1mica Tea for One 275 \u002B 400 ml Dise\u00F1o flores verde agua",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 1250,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63270.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63791.jpg"
+    ],
+    "detalles": [
+      "Altura total: 14 cm",
+      "Dimensiones tetera:",
+      "Altura: 11.5 cm",
+      "Di\u00E1metro boca: 5.5 cm",
+      "Di\u00E1metro base: 6 cm",
+      "Capacidad: 400 ml",
+      "Dimensiones de la taza:",
+      "Altura: 5.5 cm",
+      "Di\u00E1metro boca: 10.5 cm",
+      "Di\u00E1metro base: 5 cm",
+      "Capacidad: 275 ml",
+      "Di\u00E1metro del plato: 15 cm",
+      "Altura del plato: 1.5 cm"
+    ],
+    "tags": [
+      "destacado",
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 194,
+    "codigo": "M386070",
+    "nombre": "Tetera Cer\u00E1mica Tea for One 275 \u002B 400 ml Dise\u00F1o L\u00EDneas Azul Selecta",
+    "nombreCorto": "Tetera Cer\u00E1mica Tea for One 275 \u002B 400 ml Dise\u00F1o L\u00EDneas Azul",
+    "categoria": "cristaleria",
+    "subcategoria": "tazas",
+    "tipoVenta": "unidad",
+    "precioUnidad": 1250,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63272.jpg",
+      "https://www.goldsky.com.uy/imgs/productos/productos1_63273.jpg"
+    ],
+    "detalles": [
+      "Altura total: 14 cm",
+      "Dimensiones tetera:",
+      "Altura: 11.5 cm",
+      "Di\u00E1metro boca: 5.5 cm",
+      "Di\u00E1metro base: 6 cm",
+      "Capacidad: 400 ml",
+      "Dimensiones de la taza:",
+      "Altura: 5.5 cm",
+      "Di\u00E1metro boca: 10.5 cm",
+      "Di\u00E1metro base: 5 cm",
+      "Capacidad: 275 ml",
+      "Di\u00E1metro del plato: 15 cm",
+      "Altura del plato: 1.5 cm"
+    ],
+    "tags": [
+      "destacado",
+      "nuevo"
+    ]
+  },
+  {
+    "orden": 195,
+    "codigo": "CDDLMSORT",
+    "nombre": "Caja Sorteo dia de la Mujer",
+    "nombreCorto": "Caja sorteo dia de la Mujer",
+    "categoria": "regalos",
+    "subcategoria": "otros",
+    "tipoVenta": "unidad",
+    "precioUnidad": 2490,
+    "precioBase": null,
+    "packs": [],
+    "imagenes": [
+      "https://res.cloudinary.com/dpxwplees/image/upload/v1772630909/diadelamadre_gnrmbf.png"
+    ],
+    "detalles": [
+      "Tetera Cerámica Tea for One 275 + 400 ml Diseño Flores Rosa Selecta",
+      "\u002B3 Ferrero Rocher \n",
+      "\u002B1 cuchara dorada",
+      "\u002Bsobres de té\n"
+    ],
+    "tags": [
+      "evento"
+    ]
   }
 ]
-
