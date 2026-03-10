@@ -4560,7 +4560,7 @@
     "categoria": "regalos",
     "subcategoria": "otros",
     "tipoVenta": "unidad",
-    "precioUnidad": 2490,
+    "precioUnidad": 1490,
     "precioBase": null,
     "packs": [],
     "imagenes": [
@@ -4577,3 +4577,4 @@
     ]
   }
 ]
+
